@@ -1,0 +1,1341 @@
+Age,Gender,Education Level,Job Title,Years of Experience,Salary,Country,Race
+36,Male,Masters,Software/Developer,9,150000,China,White
+27,Female,Masters,Software/Developer,4,75969,Australia,White
+25,Female,Masters,Data Analyst/Scientist,1,100000,China,Korean
+28,Female,Bachelors,Data Analyst/Scientist,3,60000,Australia,Australian
+29,Male,Bachelors,Software/Developer,5,80000,Australia,Asian
+31,Male,Bachelors,Data Analyst/Scientist,9,190000,USA,White
+32,Male,Bachelors,Manager/Director/VP,6,72000,China,Korean
+30,Female,Bachelors,Manager/Director/VP,4,55000,UK,Mixed
+33,Female,Masters,Manager/Director/VP,11,195000,China,White
+33,Female,Masters,Manager/Director/VP,9,130000,Canada,Black
+30,Male,Bachelors,Software/Developer,5,100000,Canada,Black
+22,Male,High School,Sales,1,25000,USA,African American
+27,Male,Bachelors,Software/Developer,2,70000,Australia,Australian
+43,Male,Bachelors,Manager/Director/VP,15,120000,Canada,Asian
+34,Male,Masters,Software/Developer,8,140000,Canada,White
+33,Male,Masters,Data Analyst/Scientist,10,195000,Australia,White
+28,Male,Bachelors,Software/Developer,4,75000,China,Korean
+34,Male,Masters,Data Analyst/Scientist,9,140000,China,Chinese
+42,Male,Bachelors,Manager/Director/VP,13,130000,Australia,Asian
+32,Female,Bachelors,Manager/Director/VP,8,80000,UK,Mixed
+30,Male,Masters,Data Analyst/Scientist,6,100000,UK,Welsh
+28,Female,Bachelors,Software/Developer,2,37000,Australia,Asian
+32,Female,PhD,Data Analyst/Scientist,9,145000,USA,Hispanic
+27,Female,Bachelors,Software/Developer,2,36000,Australia,Asian
+25,Female,Bachelors,Data Analyst/Scientist,2,100000,China,Chinese
+33,Female,Masters,Software/Developer,8,105000,Australia,Asian
+25,Male,High School,Sales,1,30000,UK,Mixed
+34,Male,Masters,Data Analyst/Scientist,9,125000,China,White
+32,Male,Masters,Manager/Director/VP,7,110000,China,White
+43,Female,Masters,Manager/Director/VP,14,146000,Australia,Australian
+27,Male,Bachelors,Product/Designer,1,45000,China,White
+26,Female,Bachelors,Product/Designer,2,50000,Australia,Australian
+28,Male,Bachelors,Software/Developer,4,75000,UK,Asian
+29,Male,Bachelors,Data Analyst/Scientist,1,35000,UK,Asian
+46,Male,PhD,Software/Developer,16,185000,Canada,Asian
+38,Female,PhD,Data Analyst/Scientist,12,140000,USA,Hispanic
+26,Male,Bachelors,Product/Designer,2,55000,UK,Asian
+30,Female,Bachelors,Software/Developer,5,90000,USA,Asian
+27,Female,Bachelors,Software/Developer,3,70000,UK,Asian
+33,Male,Masters,Data Analyst/Scientist,8,120000,Canada,Asian
+31,Male,Bachelors,Manager/Director/VP,9,140000,China,Chinese
+27,Male,Bachelors,Software/Developer,2,65000,China,Chinese
+42,Male,Masters,Manager/Director/VP,14,180000,Australia,White
+23,Female,Bachelors,Software/Developer,1,50000,China,Korean
+35,Female,Masters,Data Analyst/Scientist,9,120000,Australia,Asian
+33,Male,PhD,Data Analyst/Scientist,8,190000,UK,Mixed
+29,Female,Bachelors,Software/Developer,4,140000,Australia,White
+34,Male,Bachelors,Software/Developer,12,195000,USA,African American
+32,Female,Masters,Manager/Director/VP,6,80000,Australia,Asian
+41,Female,PhD,Data Analyst/Scientist,16,200000,China,Chinese
+32,Male,Bachelors,Manager/Director/VP,6,72000,Australia,White
+24,Male,Bachelors,Data Analyst/Scientist,2,95000,Canada,Asian
+31,Male,Masters,Other,7,140000,Australia,White
+35,Male,PhD,Manager/Director/VP,10,110000,USA,Hispanic
+28,Female,PhD,Manager/Director/VP,6,105000,USA,Asian
+29,Female,Bachelors,Sales,2,40000,UK,Welsh
+29,Male,Bachelors,Software/Developer,4,71000,UK,Mixed
+24,Male,Bachelors,Data Analyst/Scientist,1,90000,Australia,Asian
+46,Male,Masters,Software/Developer,20,174938,USA,African American
+31,Female,Bachelors,Marketing/Social Media,4,65000,Canada,Asian
+48,Female,PhD,Manager/Director/VP,17,170000,USA,African American
+32,Male,Masters,Other,8,122354,USA,African American
+28,Female,Masters,Data Analyst/Scientist,6,150000,Canada,Asian
+52,Male,PhD,Software/Developer,18,200000,China,White
+48,Male,PhD,Other,23,181021,UK,Mixed
+28,Female,Bachelors,Data Analyst/Scientist,3,60000,China,Chinese
+48,Male,PhD,Other,16,190000,UK,Mixed
+42,Female,Masters,Manager/Director/VP,12,120000,USA,African American
+33,Female,Masters,Other,10,113334,China,White
+25,Female,Bachelors,Software/Developer,1,55000,UK,White
+31,Female,Masters,Manager/Director/VP,8,120000,Australia,Asian
+38,Female,Masters,Manager/Director/VP,14,170000,Canada,Black
+37,Male,Masters,Manager/Director/VP,14,190000,Australia,Australian
+31,Male,Bachelors,Manager/Director/VP,6,75000,Australia,Asian
+27,Male,Bachelors,Software/Developer,4,140000,China,Chinese
+52,Female,PhD,Software/Developer,29,194778,UK,Welsh
+50,Male,PhD,Software/Developer,17,195000,USA,White
+33,Male,Masters,Software/Developer,9,120000,Canada,Black
+28,Female,High School,Sales,1,30000,China,Chinese
+28,Female,PhD,Data Analyst/Scientist,5,100000,UK,Asian
+34,Female,Bachelors,Manager/Director/VP,6,75000,UK,Asian
+29,Female,Bachelors,Sales,1,40000,USA,African American
+38,Male,Bachelors,Software/Developer,11,136062,China,White
+54,Male,Masters,Software/Developer,31,193746,Canada,Asian
+36,Male,PhD,Data Analyst/Scientist,11,155000,Canada,White
+33,Female,Bachelors,Other,6,115000,UK,Asian
+31,Male,Masters,Data Analyst/Scientist,6,100000,UK,Welsh
+24,Male,Bachelors,Data Analyst/Scientist,1,95000,Australia,White
+32,Male,Bachelors,Manager/Director/VP,7,120000,Australia,Asian
+34,Male,Masters,Data Analyst/Scientist,9,140000,USA,Hispanic
+37,Male,PhD,Manager/Director/VP,11,115000,Australia,White
+32,Female,Bachelors,Manager/Director/VP,7,120000,Canada,White
+29,Male,Bachelors,Software/Developer,4,80000,China,Chinese
+24,Male,PhD,Software/Developer,1,106686,Australia,Asian
+38,Male,Bachelors,Manager/Director/VP,11,119000,China,Chinese
+40,Male,PhD,Software/Developer,12,160000,USA,Hispanic
+46,Male,PhD,Data Analyst/Scientist,18,180000,Canada,Black
+33,Female,Masters,Manager/Director/VP,11,198000,Australia,Australian
+45,Male,Bachelors,Manager/Director/VP,19,174000,Canada,Asian
+29,Male,Bachelors,Product/Designer,3,60000,USA,Hispanic
+33,Female,Masters,Manager/Director/VP,9,130000,Canada,Black
+29,Female,Masters,Data Analyst/Scientist,6,180000,Canada,White
+30,Male,Masters,Other,5,105000,UK,White
+29,Female,Masters,Data Analyst/Scientist,6,150000,Canada,Asian
+49,Male,PhD,Software/Developer,15,185000,Australia,Asian
+29,Female,Masters,Software/Developer,4,65000,USA,White
+24,Male,Bachelors,Software/Developer,1,55935,UK,Asian
+30,Female,PhD,Data Analyst/Scientist,7,185000,USA,Hispanic
+49,Male,PhD,Other,17,195000,USA,Asian
+30,Male,Bachelors,Software/Developer,6,85000,USA,Asian
+37,Male,Bachelors,Sales,6,75000,USA,White
+45,Female,Bachelors,Other,21,167015,Canada,White
+49,Male,PhD,Data Analyst/Scientist,22,220000,UK,Mixed
+35,Male,Bachelors,Manager/Director/VP,10,130000,UK,Asian
+32,Male,Masters,Software/Developer,6,80000,UK,White
+35,Female,Masters,Other,8,140000,Australia,Australian
+28,Male,Bachelors,Data Analyst/Scientist,3,52000,USA,Hispanic
+42,Male,PhD,Data Analyst/Scientist,13,140000,China,Chinese
+27,Male,Bachelors,Software/Developer,2,65000,Australia,White
+53,Male,PhD,Software/Developer,19,195000,Australia,Australian
+27,Female,Masters,HR/Human Resources,3,50000,Australia,Asian
+32,Female,Masters,Manager/Director/VP,7,120000,Australia,Australian
+26,Male,High School,Sales,2,30000,USA,African American
+33,Male,Masters,Software/Developer,8,139817,Canada,White
+30,Male,Bachelors,Software/Developer,5,75000,Australia,Australian
+31,Male,Bachelors,Other,6,115000,Australia,Asian
+38,Male,Bachelors,Manager/Director/VP,11,119000,USA,Hispanic
+41,Female,Bachelors,Other,11,95000,USA,African American
+27,Female,Bachelors,Software/Developer,3,70000,Canada,Asian
+40,Female,Masters,Other,12,100000,Canada,Black
+24,Female,High School,Customer Service/Receptionist,0,25000,USA,Asian
+28,Male,Bachelors,Software/Developer,4,72389,UK,Mixed
+26,Male,Masters,Sales,3,45000,UK,Welsh
+27,Male,Bachelors,Data Analyst/Scientist,2,50000,USA,African American
+34,Male,PhD,Manager/Director/VP,11,170000,China,White
+24,Male,Bachelors,Data Analyst/Scientist,2,95000,China,White
+28,Female,High School,Sales,1,30000,China,White
+38,Male,Bachelors,Software/Developer,14,136449,China,Korean
+29,Male,Bachelors,Data Analyst/Scientist,3,50000,China,Chinese
+45,Male,PhD,Data Analyst/Scientist,18,180000,Canada,Black
+40,Female,Bachelors,Manager/Director/VP,15,210000,Australia,Australian
+24,Female,High School,Customer Service/Receptionist,0,25000,USA,Hispanic
+31,Male,Bachelors,Data Analyst/Scientist,9,190000,UK,White
+31,Female,Bachelors,Financial/Accountant,4,55000,UK,White
+33,Female,Bachelors,Other,6,115000,Canada,Black
+42,Female,PhD,Manager/Director/VP,13,140000,Canada,White
+32,Male,Masters,Software/Developer,6,130000,USA,Asian
+25,Female,Masters,Software/Developer,2,60000,Australia,Australian
+29,Male,Bachelors,Software/Developer,4,80000,Canada,Black
+32,Male,Bachelors,Software/Developer,8,190000,China,White
+26,Male,Masters,Other,3,88678,USA,Asian
+34,Female,PhD,Manager/Director/VP,12,170000,China,Chinese
+27,Male,Bachelors,Software/Developer,1,55000,China,White
+46,Male,PhD,Other,14,180000,UK,White
+39,Male,PhD,Other,12,115000,UK,Mixed
+47,Male,PhD,Data Analyst/Scientist,22,160000,Australia,Asian
+25,Male,Bachelors,Software/Developer,1,55000,Australia,Australian
+24,Female,High School,Sales,0,25000,Canada,Asian
+27,Female,Bachelors,Product/Designer,2,50000,UK,Asian
+26,Female,Bachelors,Data Analyst/Scientist,3,130000,Australia,White
+28,Male,Bachelors,Product/Designer,3,60000,UK,White
+31,Male,Bachelors,Data Analyst/Scientist,9,195000,Australia,Asian
+27,Male,Bachelors,Software/Developer,2,65000,Australia,Australian
+42,Male,Masters,Software/Developer,13,170000,Australia,Australian
+31,Male,Bachelors,Data Analyst/Scientist,9,195000,Canada,Black
+28,Female,Bachelors,Data Analyst/Scientist,3,65000,UK,Welsh
+46,Male,Bachelors,Other,25,166958,Australia,White
+51,Female,Bachelors,Manager/Director/VP,22,130000,China,Korean
+29,Female,Bachelors,Software/Developer,3,65000,USA,White
+36,Male,Bachelors,Sales,3,45000,Australia,Asian
+33,Male,Masters,Data Analyst/Scientist,8,120000,Canada,White
+41,Male,Bachelors,Manager/Director/VP,12,120000,Canada,Asian
+36,Male,Bachelors,IT/Technical Support,8,70000,UK,Asian
+39,Female,PhD,Data Analyst/Scientist,13,145000,USA,African American
+42,Female,Masters,Manager/Director/VP,14,140000,Canada,White
+35,Male,Bachelors,Software/Developer,10,128712,Australia,Asian
+38,Male,Masters,Manager/Director/VP,9,95000,Australia,Asian
+30,Female,Masters,HR/Human Resources,3,49000,UK,Mixed
+54,Female,PhD,Software/Developer,32,191267,Australia,Australian
+27,Male,Bachelors,Software/Developer,4,140000,USA,African American
+45,Male,Masters,Manager/Director/VP,13,130000,Canada,Black
+25,Female,Masters,Marketing/Social Media,2,40000,Canada,Black
+26,Male,High School,Sales,2,31000,Australia,Asian
+29,Male,Bachelors,Software/Developer,4,80000,China,Chinese
+37,Male,Bachelors,Manager/Director/VP,12,150000,USA,White
+30,Male,Bachelors,Software/Developer,5,75000,USA,African American
+24,Female,Bachelors,Software/Developer,2,55000,UK,White
+34,Female,Bachelors,Manager/Director/VP,9,99000,UK,Welsh
+29,Male,Bachelors,Manager/Director/VP,6,95000,USA,African American
+26,Male,Masters,Other,3,68472,China,Korean
+34,Male,Masters,Manager/Director/VP,12,196000,China,Korean
+34,Male,Masters,Data Analyst/Scientist,9,140000,Canada,White
+33,Female,Masters,Manager/Director/VP,11,195000,USA,African American
+52,Female,Masters,Manager/Director/VP,25,170000,China,Chinese
+40,Male,Masters,Software/Developer,16,149748,UK,White
+29,Female,Masters,Software/Developer,5,70000,Australia,White
+39,Female,Masters,Manager/Director/VP,11,120000,USA,African American
+28,Female,PhD,Manager/Director/VP,6,105000,UK,Mixed
+25,Female,Bachelors,Data Analyst/Scientist,2,90000,Canada,Black
+35,Male,Masters,Other,9,132638,China,White
+43,Male,PhD,Software/Developer,12,170000,USA,Asian
+49,Male,PhD,Software/Developer,15,185000,UK,Mixed
+36,Female,Masters,Marketing/Social Media,9,100000,USA,White
+30,Female,Bachelors,Marketing/Social Media,5,85000,Australia,White
+33,Female,Masters,Manager/Director/VP,11,198000,USA,African American
+29,Male,Bachelors,Sales,2,45000,USA,Hispanic
+45,Male,PhD,Software/Developer,16,185000,China,Chinese
+44,Female,PhD,Manager/Director/VP,18,160000,Canada,White
+32,Female,Masters,Software/Developer,7,100000,Canada,White
+29,Male,Bachelors,Data Analyst/Scientist,4,70000,Australia,White
+30,Female,Masters,Software/Developer,6,130000,Australia,Australian
+32,Female,Masters,Other,6,115000,China,Chinese
+30,Female,Masters,Software/Developer,5,105000,Canada,Asian
+29,Female,Bachelors,Software/Developer,4,90000,Canada,White
+39,Female,Bachelors,Manager/Director/VP,16,200000,UK,Mixed
+33,Male,Bachelors,Other,7,130000,UK,Welsh
+51,Male,PhD,Data Analyst/Scientist,24,240000,China,Chinese
+28,Female,Masters,Manager/Director/VP,7,110000,UK,Welsh
+26,Female,Masters,Software/Developer,3,73218,Canada,White
+43,Male,Masters,Other,12,165000,Canada,White
+35,Female,Bachelors,Software/Developer,10,114776,USA,Asian
+42,Male,PhD,Data Analyst/Scientist,14,140000,Canada,Black
+41,Female,PhD,Data Analyst/Scientist,16,200000,Australia,Asian
+42,Male,Masters,Other,19,177347,Canada,Asian
+28,Female,Bachelors,Software/Developer,2,36000,China,Chinese
+27,Male,Bachelors,Product/Designer,2,55000,China,Chinese
+27,Female,Bachelors,Product/Designer,2,50000,USA,Hispanic
+29,Female,Masters,Data Analyst/Scientist,6,150000,USA,Asian
+33,Female,Masters,Manager/Director/VP,9,130000,UK,Asian
+28,Female,PhD,Data Analyst/Scientist,5,100000,USA,Asian
+24,Female,Bachelors,Software/Developer,1,60000,Australia,Australian
+39,Male,Masters,Software/Developer,14,142360,Canada,Asian
+29,Female,Bachelors,Manager/Director/VP,2,40000,UK,Mixed
+30,Male,Masters,Software/Developer,6,170000,Canada,White
+27,Female,Masters,Manager/Director/VP,4,80000,USA,White
+43,Male,PhD,Data Analyst/Scientist,16,160000,Australia,Australian
+30,Female,PhD,Data Analyst/Scientist,6,170000,Canada,White
+49,Female,PhD,Other,17,195000,USA,White
+31,Female,Bachelors,HR/Human Resources,4,50000,Australia,Australian
+26,Male,Bachelors,Product/Designer,2,50000,USA,Asian
+32,Female,PhD,Data Analyst/Scientist,9,145000,Canada,White
+49,Male,PhD,Software/Developer,15,185000,USA,African American
+36,Female,Bachelors,IT/Technical Support,9,60000,China,White
+28,Male,Bachelors,Software/Developer,4,75000,Canada,Asian
+27,Male,Bachelors,Software/Developer,3,80000,USA,Asian
+33,Female,Masters,Manager/Director/VP,9,130000,China,Korean
+37,Male,Masters,Software/Developer,9,150000,China,White
+26,Male,Bachelors,Product/Designer,1,50000,USA,White
+36,Female,PhD,Data Analyst/Scientist,13,185000,Australia,White
+23,Female,High School,Software/Developer,1,52807,Australia,White
+30,Female,Masters,Other,5,100867,Australia,Australian
+30,Male,Bachelors,Software/Developer,5,100000,UK,White
+30,Male,Bachelors,Data Analyst/Scientist,5,160000,UK,Asian
+33,Male,PhD,Data Analyst/Scientist,8,190000,UK,Mixed
+33,Female,Masters,Other,8,122970,Canada,White
+29,Female,Masters,Data Analyst/Scientist,6,180000,Australia,Asian
+24,Male,High School,Sales,1,30000,China,Korean
+25,Male,Bachelors,Manager/Director/VP,1,60000,UK,Mixed
+36,Male,PhD,Data Analyst/Scientist,11,135000,UK,White
+27,Female,Masters,Software/Developer,2,70000,USA,African American
+25,Male,Bachelors,Manager/Director/VP,1,55000,UK,Asian
+26,Male,High School,Manager/Director/VP,2,40000,USA,White
+27,Female,Bachelors,Software/Developer,2,48000,USA,Asian
+40,Female,Masters,Manager/Director/VP,11,120000,China,White
+36,Female,Masters,Marketing/Social Media,9,100000,China,Chinese
+54,Female,PhD,Software/Developer,32,191267,USA,White
+29,Male,Masters,Manager/Director/VP,4,70000,USA,Hispanic
+31,Female,PhD,Data Analyst/Scientist,8,140000,China,White
+31,Female,Bachelors,Marketing/Social Media,4,65000,USA,Hispanic
+27,Male,Bachelors,Product/Designer,3,60000,China,Korean
+33,Male,Masters,Software/Developer,8,139817,Australia,White
+25,Female,Masters,Data Analyst/Scientist,1,100000,Canada,Asian
+27,Female,Bachelors,Software/Developer,3,65000,Australia,Asian
+28,Male,Masters,Software/Developer,5,76742,USA,Asian
+30,Female,Bachelors,Marketing/Social Media,5,95000,China,Chinese
+31,Male,Masters,Other,6,125000,UK,White
+30,Male,Bachelors,Software/Developer,5,100000,Australia,Asian
+31,Male,High School,HR/Human Resources,2,35000,Canada,White
+37,Male,Bachelors,Data Analyst/Scientist,11,160000,Canada,Black
+30,Female,Bachelors,Data Analyst/Scientist,5,145000,China,Chinese
+35,Female,Masters,Data Analyst/Scientist,9,120000,UK,Mixed
+35,Female,Masters,Marketing/Social Media,8,85000,USA,Asian
+37,Male,Bachelors,Manager/Director/VP,10,113000,Australia,Asian
+34,Male,Bachelors,Software/Developer,3,50000,UK,Welsh
+33,Female,Masters,Manager/Director/VP,10,195000,China,Korean
+30,Female,Bachelors,Marketing/Social Media,4,65000,China,Korean
+26,Female,Bachelors,Software/Developer,2,35000,China,Chinese
+25,Female,Bachelors,Manager/Director/VP,3,65000,USA,African American
+24,Male,Bachelors,Data Analyst/Scientist,1,92000,China,White
+26,Female,High School,Sales,1,35000,Canada,Black
+29,Female,Bachelors,Data Analyst/Scientist,7,130000,Australia,Australian
+31,Male,Masters,Other,6,125000,USA,Asian
+53,Male,PhD,Software/Developer,25,181714,Canada,White
+28,Male,Bachelors,Software/Developer,7,175000,USA,Asian
+29,Female,Bachelors,Software/Developer,3,60000,Australia,White
+34,Male,Masters,Data Analyst/Scientist,8,100000,Canada,Asian
+57,Male,PhD,Software/Developer,18,200000,Australia,Australian
+38,Male,Masters,Software/Developer,10,155000,Canada,Black
+35,Female,Masters,Data Analyst/Scientist,9,120000,China,Korean
+25,Female,Masters,Software/Developer,2,60000,UK,White
+38,Female,PhD,Software/Developer,15,144496,China,Korean
+45,Female,Bachelors,Other,21,167015,China,White
+39,Male,Masters,HR/Human Resources,10,105000,UK,Welsh
+30,Female,Bachelors,Data Analyst/Scientist,5,145000,Australia,White
+28,Male,Bachelors,Software/Developer,4,160000,USA,Hispanic
+30,Male,Bachelors,Software/Developer,5,100000,Australia,Australian
+27,Male,Bachelors,Data Analyst/Scientist,2,50000,USA,Hispanic
+25,Male,Bachelors,Manager/Director/VP,1,60000,China,Korean
+29,Female,Bachelors,Manager/Director/VP,4,55000,Australia,Asian
+42,Female,Masters,Software/Developer,16,138286,UK,Welsh
+35,Male,Masters,Other,8,101332,China,White
+32,Male,Bachelors,Manager/Director/VP,8,120000,Australia,White
+33,Female,Bachelors,Other,6,115000,UK,Welsh
+33,Female,Masters,Other,9,135596,UK,Welsh
+28,Male,Bachelors,Software/Developer,3,125000,China,Korean
+28,Male,Masters,Software/Developer,5,80000,UK,Asian
+31,Male,Bachelors,Software/Developer,7,120000,Australia,White
+33,Female,Bachelors,Software/Developer,5,70000,UK,Welsh
+30,Female,Bachelors,Manager/Director/VP,3,55000,Australia,White
+32,Male,Bachelors,Manager/Director/VP,6,75000,China,Chinese
+31,Female,PhD,Data Analyst/Scientist,8,140000,Australia,Asian
+28,Male,Bachelors,Other,4,77606,China,Korean
+38,Male,Bachelors,Manager/Director/VP,13,160000,Australia,Australian
+27,Female,Bachelors,Software/Developer,2,36000,Australia,White
+28,Female,Masters,Manager/Director/VP,4,55000,Canada,Asian
+31,Female,PhD,Data Analyst/Scientist,8,140000,Canada,Asian
+28,Female,Bachelors,Data Analyst/Scientist,3,60000,Australia,White
+39,Female,Bachelors,Manager/Director/VP,16,200000,China,Chinese
+37,Male,Bachelors,Manager/Director/VP,7,90000,China,Chinese
+57,Female,Masters,Other,33,188232,Canada,Black
+41,Male,PhD,Software/Developer,16,151310,Australia,Asian
+35,Female,Masters,Manager/Director/VP,11,160000,China,White
+24,Male,High School,Other,0,28000,Canada,Asian
+26,Male,Bachelors,Data Analyst/Scientist,2,50000,Australia,Australian
+50,Female,Bachelors,Manager/Director/VP,15,150000,China,Chinese
+30,Female,Bachelors,Software/Developer,4,80000,USA,Asian
+23,Female,High School,Software/Developer,1,52807,UK,White
+24,Female,High School,Customer Service/Receptionist,0,25000,Australia,Australian
+26,Female,Bachelors,Software/Developer,2,45000,Australia,Australian
+37,Female,Masters,Software/Developer,9,155000,UK,Asian
+26,Male,Bachelors,Software/Developer,2,60000,China,White
+43,Female,PhD,Data Analyst/Scientist,15,150000,USA,African American
+52,Male,Masters,Software/Developer,27,186794,China,White
+42,Male,Masters,Other,19,176643,Canada,Black
+28,Male,Masters,Manager/Director/VP,3,130000,Canada,Asian
+32,Female,Masters,Other,6,115000,USA,Asian
+24,Male,Bachelors,Data Analyst/Scientist,1,90000,USA,African American
+34,Female,PhD,Manager/Director/VP,10,150000,Australia,Asian
+55,Male,PhD,Software/Developer,18,210000,UK,Asian
+35,Female,Masters,Data Analyst/Scientist,9,120000,USA,Hispanic
+29,Female,Masters,Software/Developer,3,60000,USA,White
+25,Female,Masters,Manager/Director/VP,3,50000,UK,Mixed
+34,Male,PhD,Manager/Director/VP,12,170000,UK,Mixed
+25,Other,High School,Other,2,69032,USA,African American
+35,Female,Bachelors,Manager/Director/VP,8,92000,China,Chinese
+36,Male,Masters,Other,13,146508,China,Korean
+40,Female,PhD,Manager/Director/VP,13,125000,USA,Asian
+49,Male,PhD,Software/Developer,15,185000,UK,Welsh
+32,Male,Masters,Manager/Director/VP,7,110000,Canada,Black
+29,Female,Masters,Data Analyst/Scientist,6,150000,UK,White
+29,Male,Bachelors,Software/Developer,4,140000,Canada,Asian
+46,Male,Masters,Manager/Director/VP,21,135000,Canada,Asian
+39,Female,Masters,Manager/Director/VP,10,110000,UK,Welsh
+32,Male,Bachelors,Manager/Director/VP,8,120000,Australia,Asian
+28,Female,Masters,Other,4,110000,Canada,Asian
+36,Female,PhD,Data Analyst/Scientist,13,185000,UK,Asian
+32,Female,Bachelors,Data Analyst/Scientist,5,50000,USA,Asian
+26,Male,Bachelors,Data Analyst/Scientist,2,50000,UK,Welsh
+38,Male,Masters,Manager/Director/VP,14,195000,UK,Asian
+33,Male,PhD,Data Analyst/Scientist,10,150000,China,White
+26,Female,Bachelors,Software/Developer,1,35000,USA,Asian
+24,Female,High School,Customer Service/Receptionist,0,25000,UK,Welsh
+21,Female,High School,Sales,0,25000,China,Chinese
+24,Male,Bachelors,Software/Developer,2,64182,UK,Asian
+30,Female,Bachelors,Marketing/Social Media,4,57000,Canada,Asian
+31,Female,Masters,Software/Developer,6,113563,UK,Mixed
+35,Female,Masters,Other,10,152039,Australia,Asian
+35,Male,Masters,Software/Developer,9,110000,Canada,Asian
+21,Female,High School,Sales,0,25000,USA,African American
+45,Male,Masters,Software/Developer,22,182506,USA,African American
+28,Male,Bachelors,IT/Technical Support,2,40000,China,Korean
+33,Female,Masters,Manager/Director/VP,9,135000,Australia,Asian
+38,Male,Masters,Software/Developer,10,155000,Canada,Asian
+42,Male,PhD,Software/Developer,14,190000,UK,Asian
+40,Female,PhD,Manager/Director/VP,13,125000,USA,White
+32,Male,Bachelors,Manager/Director/VP,6,90000,China,White
+25,Male,Bachelors,Software/Developer,2,90249,China,Chinese
+28,Male,Bachelors,Software/Developer,4,75000,China,White
+27,Male,Bachelors,Software/Developer,3,80000,UK,Mixed
+50,Female,Masters,Manager/Director/VP,19,190000,UK,Welsh
+45,Male,Masters,Software/Developer,21,180367,UK,Asian
+37,Male,Bachelors,Data Analyst/Scientist,11,160000,Australia,White
+33,Male,Bachelors,Manager/Director/VP,8,120000,UK,Mixed
+34,Male,Bachelors,Manager/Director/VP,9,185000,Australia,Australian
+26,Female,High School,Sales,1,35000,USA,White
+40,Female,Bachelors,Manager/Director/VP,16,215000,Australia,White
+26,Male,Bachelors,Software/Developer,2,63789,Canada,Black
+31,Female,High School,Sales,1,25000,Canada,Asian
+45,Male,PhD,Software/Developer,16,185000,Canada,White
+35,Female,PhD,Manager/Director/VP,9,95000,UK,Asian
+30,Male,PhD,Data Analyst/Scientist,7,185000,UK,Welsh
+30,Male,Masters,Software/Developer,6,170000,Canada,White
+29,Male,Masters,Manager/Director/VP,4,70000,China,White
+25,Female,Bachelors,Manager/Director/VP,3,65000,Canada,White
+50,Female,PhD,Software/Developer,16,185000,Australia,Asian
+33,Male,Masters,Software/Developer,6,130000,China,Korean
+43,Female,Masters,Manager/Director/VP,15,150000,UK,Mixed
+32,Male,Bachelors,Software/Developer,8,190000,UK,Asian
+31,Male,Bachelors,Manager/Director/VP,5,70000,UK,White
+28,Male,Bachelors,Data Analyst/Scientist,3,65000,UK,Mixed
+27,Female,Masters,HR/Human Resources,3,50000,Australia,Australian
+23,Female,Bachelors,Software/Developer,1,50000,China,White
+32,Male,Bachelors,Manager/Director/VP,7,120000,Canada,White
+27,Female,Bachelors,Software/Developer,2,36000,UK,Asian
+45,Male,Masters,Software/Developer,21,180367,China,Korean
+30,Male,Bachelors,Software/Developer,5,70000,USA,Asian
+28,Female,Bachelors,Data Analyst/Scientist,3,60000,UK,Welsh
+30,Female,Bachelors,Marketing/Social Media,2,40000,China,Korean
+25,Female,Bachelors,Data Analyst/Scientist,2,90000,Australia,White
+25,Male,PhD,Software/Developer,12,169159,China,White
+37,Male,Masters,Manager/Director/VP,14,180000,Canada,Black
+43,Male,Masters,Other,17,155414,China,Chinese
+27,Male,Bachelors,Software/Developer,4,160000,Canada,Asian
+27,Male,Bachelors,Product/Designer,2,55000,China,White
+50,Male,PhD,Manager/Director/VP,15,150000,Australia,White
+54,Male,PhD,Software/Developer,17,195000,China,Chinese
+30,Male,Masters,Data Analyst/Scientist,6,100000,UK,White
+34,Male,PhD,Manager/Director/VP,12,170000,Canada,Asian
+23,Male,Bachelors,Software/Developer,1,60000,USA,Hispanic
+27,Male,PhD,Data Analyst/Scientist,2,115000,Australia,Asian
+36,Female,Masters,Manager/Director/VP,11,117000,USA,African American
+28,Female,Bachelors,Other,3,70397,USA,Hispanic
+25,Male,Bachelors,Manager/Director/VP,1,60000,Canada,Black
+26,Female,Masters,Software/Developer,1,55000,UK,Mixed
+38,Male,Bachelors,Software/Developer,11,136285,Canada,White
+29,Female,Masters,Data Analyst/Scientist,6,150000,UK,Welsh
+41,Male,Bachelors,Manager/Director/VP,12,120000,Australia,White
+50,Female,Masters,Manager/Director/VP,19,190000,Canada,Black
+34,Male,Masters,Other,12,160976,China,White
+32,Female,Masters,Manager/Director/VP,6,80000,Australia,Australian
+27,Male,Bachelors,Software/Developer,3,80000,Australia,White
+33,Male,Bachelors,Manager/Director/VP,7,110000,Australia,Asian
+24,Male,High School,Other,0,28000,Australia,White
+36,Male,Bachelors,Software/Developer,8,135000,UK,Mixed
+48,Female,Masters,Software/Developer,24,184480,Canada,Black
+30,Female,PhD,Data Analyst/Scientist,7,170000,USA,African American
+24,Female,High School,Customer Service/Receptionist,0,25000,Australia,Asian
+46,Male,PhD,Other,15,180000,China,Korean
+31,Female,Bachelors,Software/Developer,6,155000,Australia,Australian
+27,Female,Bachelors,Software/Developer,3,80000,UK,White
+27,Male,Bachelors,Software/Developer,3,80000,Canada,White
+25,Male,Bachelors,Software/Developer,1,55000,USA,White
+33,Female,Masters,Data Analyst/Scientist,7,95000,Australia,Australian
+30,Female,Bachelors,Marketing/Social Media,5,90000,China,Korean
+26,Female,High School,Sales,1,35000,Australia,Australian
+36,Female,PhD,Data Analyst/Scientist,13,185000,Australia,Asian
+34,Female,Masters,Manager/Director/VP,9,95000,China,Korean
+30,Female,Masters,Other,4,92438,USA,Hispanic
+30,Female,Bachelors,Software/Developer,8,180000,China,Korean
+42,Male,PhD,Data Analyst/Scientist,14,140000,Canada,Black
+25,Female,Bachelors,Software/Developer,1,550,UK,Mixed
+50,Male,PhD,Software/Developer,16,190000,UK,White
+28,Male,PhD,Sales,4,55000,China,White
+34,Male,Bachelors,Manager/Director/VP,8,101000,USA,African American
+28,Male,Masters,Data Analyst/Scientist,4,90000,USA,Hispanic
+46,Male,Masters,Software/Developer,20,174938,China,White
+28,Female,Masters,Data Analyst/Scientist,6,155000,Australia,White
+43,Male,PhD,Other,13,185000,China,Chinese
+33,Male,High School,HR/Human Resources,3,38000,Australia,Australian
+36,Male,PhD,Data Analyst/Scientist,12,170000,Australia,White
+36,Male,Masters,Software/Developer,9,150000,Australia,Asian
+33,Female,Bachelors,Manager/Director/VP,6,75000,Canada,Asian
+27,Male,Bachelors,Software/Developer,3,80000,USA,Asian
+48,Female,PhD,Manager/Director/VP,17,170000,Australia,Australian
+36,Male,Bachelors,Manager/Director/VP,11,160000,USA,Asian
+39,Male,Masters,Manager/Director/VP,12,120000,Canada,White
+37,Male,PhD,Manager/Director/VP,11,115000,UK,Asian
+30,Female,Bachelors,Marketing/Social Media,4,65000,UK,Welsh
+34,Female,Bachelors,Manager/Director/VP,6,75000,UK,White
+25,Male,Masters,Software/Developer,2,60000,USA,African American
+48,Male,PhD,Other,16,190000,Australia,Australian
+24,Female,Bachelors,Software/Developer,1,55000,USA,White
+31,Male,High School,HR/Human Resources,2,35000,Australia,White
+28,Female,High School,HR/Human Resources,2,43000,China,Chinese
+34,Male,Bachelors,Software/Developer,3,50000,Australia,Asian
+37,Male,Bachelors,Manager/Director/VP,10,113000,China,White
+45,Male,Bachelors,Manager/Director/VP,21,250000,Canada,Black
+25,Female,High School,Sales,1,35000,UK,Mixed
+27,Male,Bachelors,Software/Developer,3,85000,Canada,Black
+47,Male,PhD,Manager/Director/VP,20,180000,China,White
+46,Male,PhD,Manager/Director/VP,15,150000,UK,Welsh
+49,Female,PhD,Software/Developer,22,178684,Canada,Asian
+21,Female,High School,Sales,0,25000,China,Korean
+33,Male,Bachelors,Software/Developer,6,110000,Canada,Asian
+42,Male,Masters,Other,14,115000,China,White
+37,Female,Masters,Manager/Director/VP,12,125000,China,White
+29,Male,Bachelors,Software/Developer,4,80000,UK,Welsh
+27,Female,Bachelors,Marketing/Social Media,3,45000,UK,Asian
+30,Female,Bachelors,Operations/Supply Chain,2,40000,Australia,White
+35,Female,Masters,Other,10,151901,UK,Mixed
+29,Female,Bachelors,Marketing/Social Media,4,65000,Canada,White
+31,Female,Masters,Data Analyst/Scientist,6,180000,Canada,White
+31,Male,Bachelors,Software/Developer,6,85000,UK,Welsh
+33,Male,Masters,Data Analyst/Scientist,8,120000,UK,Mixed
+27,Male,Bachelors,Data Analyst/Scientist,2,50000,Canada,Asian
+22,Female,High School,Customer Service/Receptionist,0,25000,Canada,Asian
+50,Female,Masters,Other,24,192756,China,Korean
+29,Female,PhD,Data Analyst/Scientist,5,100000,USA,African American
+26,Female,Bachelors,Software/Developer,2,45000,USA,White
+41,Female,Masters,Manager/Director/VP,13,140000,USA,White
+27,Female,Masters,Other,3,100000,UK,White
+33,Male,Masters,Manager/Director/VP,11,198000,UK,White
+33,Female,Masters,Manager/Director/VP,11,195000,Australia,Asian
+33,Female,Masters,Manager/Director/VP,11,190000,UK,Mixed
+45,Male,PhD,Other,16,185000,China,Korean
+26,Female,Bachelors,Software/Developer,1,35000,Australia,White
+27,Male,Bachelors,Data Analyst/Scientist,2,50000,USA,Hispanic
+26,Male,Masters,Other,4,102859,UK,Welsh
+54,Male,Masters,Other,28,191239,Australia,Australian
+28,Female,Bachelors,Manager/Director/VP,1,35000,Canada,Asian
+48,Male,PhD,Software/Developer,24,192211,China,Chinese
+29,Male,Bachelors,Software/Developer,3,80000,USA,Asian
+33,Female,Masters,Other,6,115000,Canada,White
+39,Female,Masters,Software/Developer,12,160000,USA,Asian
+45,Male,Masters,Manager/Director/VP,20,204000,Australia,Australian
+46,Male,PhD,Data Analyst/Scientist,18,180000,Australia,White
+30,Female,Masters,Software/Developer,5,105000,UK,Asian
+33,Male,PhD,Data Analyst/Scientist,8,190000,China,Korean
+34,Male,PhD,Manager/Director/VP,9,95000,USA,African American
+29,Male,Bachelors,Manager/Director/VP,5,80000,UK,Welsh
+49,Male,PhD,Other,17,195000,UK,Asian
+26,Female,Bachelors,Data Analyst/Scientist,3,130000,Canada,Asian
+33,Male,Masters,Manager/Director/VP,7,115000,China,Korean
+48,Male,Masters,Manager/Director/VP,21,180000,Canada,Asian
+30,Male,Bachelors,Software/Developer,4,65000,Canada,Black
+29,Male,Bachelors,Software/Developer,2,45000,Canada,White
+31,Male,Masters,Other,8,120288,China,White
+32,Female,Masters,Manager/Director/VP,6,77000,Australia,White
+51,Male,PhD,Data Analyst/Scientist,24,240000,USA,White
+36,Male,Bachelors,Manager/Director/VP,11,160000,Canada,White
+31,Male,Bachelors,Manager/Director/VP,9,140000,USA,White
+27,Male,High School,Sales,2,40000,UK,Asian
+31,Male,Bachelors,Other,6,115000,Canada,White
+32,Male,Bachelors,Manager/Director/VP,6,72000,Canada,White
+30,Male,Bachelors,Software/Developer,4,95000,USA,African American
+49,Male,PhD,Data Analyst/Scientist,22,220000,Australia,Asian
+48,Male,PhD,Data Analyst/Scientist,18,210000,UK,Mixed
+30,Male,Masters,Other,5,105000,Australia,White
+26,Female,Bachelors,Software/Developer,2,45000,Australia,White
+37,Male,PhD,Manager/Director/VP,14,195000,USA,Hispanic
+46,Male,PhD,Other,18,150000,Canada,Black
+31,Male,Bachelors,Manager/Director/VP,9,140000,USA,African American
+24,Female,High School,Customer Service/Receptionist,0,25000,Australia,Australian
+25,Male,Bachelors,Manager/Director/VP,1,60000,China,Chinese
+36,Male,Bachelors,Manager/Director/VP,11,160000,USA,African American
+45,Male,Masters,Software/Developer,22,181902,China,Korean
+35,Female,Masters,Data Analyst/Scientist,9,120000,Australia,White
+27,Male,Bachelors,Software/Developer,4,140000,UK,Welsh
+47,Male,PhD,Software/Developer,21,174985,UK,Mixed
+32,Female,Bachelors,Software/Developer,2,45000,USA,African American
+33,Female,Masters,Data Analyst/Scientist,8,100000,China,White
+25,Female,Bachelors,Data Analyst/Scientist,2,90000,UK,White
+28,Male,Bachelors,Software/Developer,1,50000,USA,White
+46,Female,Bachelors,Software/Developer,18,155795,USA,White
+26,Female,Bachelors,Marketing/Social Media,7,100000,USA,African American
+31,Male,Masters,Other,7,140000,Australia,White
+28,Female,PhD,Manager/Director/VP,6,105000,Australia,Asian
+43,Female,Masters,Manager/Director/VP,14,146000,USA,African American
+30,Female,Bachelors,Software/Developer,5,90000,UK,Asian
+31,Male,Masters,Data Analyst/Scientist,6,160000,Australia,White
+30,Female,Bachelors,Marketing/Social Media,5,90000,Australia,White
+34,Male,PhD,Manager/Director/VP,11,160000,Canada,Black
+29,Female,Bachelors,Other,1,35000,Australia,White
+42,Male,PhD,Software/Developer,14,190000,China,Korean
+29,Male,Bachelors,Data Analyst/Scientist,4,70000,Australia,White
+25,Male,Bachelors,Data Analyst/Scientist,1,55000,USA,Hispanic
+48,Female,PhD,Manager/Director/VP,17,170000,Canada,Black
+28,Female,Masters,HR/Human Resources,2,45000,China,Korean
+41,Female,PhD,Software/Developer,13,138662,USA,Asian
+50,Female,Masters,Software/Developer,23,183690,China,Korean
+31,Male,Masters,Other,7,135000,Australia,White
+24,Male,Bachelors,Data Analyst/Scientist,1,90000,China,Chinese
+45,Male,Masters,Manager/Director/VP,20,204000,USA,White
+27,Female,Masters,Manager/Director/VP,4,80000,USA,Asian
+29,Male,Bachelors,Data Analyst/Scientist,4,75000,USA,Hispanic
+38,Male,Masters,Software/Developer,10,155000,USA,Hispanic
+27,Male,Bachelors,Data Analyst/Scientist,2,50000,Australia,Asian
+27,Male,Bachelors,Software/Developer,3,80000,Australia,Asian
+30,Male,Bachelors,Data Analyst/Scientist,5,160000,UK,White
+26,Male,High School,Sales,2,31000,Australia,White
+48,Male,PhD,Software/Developer,19,200000,USA,White
+29,Female,Bachelors,Data Analyst/Scientist,2,40000,Australia,Australian
+47,Male,Masters,Manager/Director/VP,20,170000,Canada,White
+39,Female,Bachelors,Manager/Director/VP,15,200000,UK,Mixed
+43,Male,PhD,Other,13,185000,China,White
+27,Female,Masters,Other,3,100000,USA,Hispanic
+31,Male,Bachelors,Manager/Director/VP,9,140000,USA,White
+30,Female,PhD,Data Analyst/Scientist,7,185000,UK,Asian
+31,Male,Bachelors,Data Analyst/Scientist,9,195000,UK,Asian
+28,Female,PhD,Data Analyst/Scientist,5,100000,China,White
+26,Female,Bachelors,Software/Developer,1,45000,USA,Asian
+25,Female,Bachelors,Software/Developer,1,35000,China,Chinese
+29,Female,Bachelors,Sales,3,40000,China,White
+35,Male,PhD,Manager/Director/VP,10,110000,China,Chinese
+45,Female,Masters,Manager/Director/VP,16,160000,Canada,Black
+29,Male,Bachelors,Data Analyst/Scientist,7,130000,Australia,Australian
+44,Female,PhD,Software/Developer,11,165000,Canada,Black
+34,Male,Bachelors,Software/Developer,3,50000,Australia,Australian
+29,Female,Bachelors,Other,6,103579,Canada,Black
+27,Female,Masters,HR/Human Resources,3,50000,Australia,White
+27,Female,Masters,HR/Human Resources,3,50000,USA,Hispanic
+38,Male,Masters,Manager/Director/VP,14,195000,Canada,White
+32,Male,Bachelors,Manager/Director/VP,7,120000,China,Chinese
+30,Male,High School,Other,11,103947,Australia,Asian
+57,Male,PhD,Software/Developer,18,195000,China,White
+31,Female,High School,Manager/Director/VP,4,60000,Australia,Australian
+23,Male,Bachelors,Software/Developer,1,55000,UK,Asian
+29,Male,Bachelors,Manager/Director/VP,6,95000,USA,Hispanic
+36,Female,PhD,Data Analyst/Scientist,13,185000,Australia,Asian
+27,Male,Bachelors,Product/Designer,2,55000,Canada,White
+43,Female,Masters,Manager/Director/VP,14,140000,Australia,Australian
+44,Male,Masters,Other,11,170000,Canada,White
+42,Male,PhD,Manager/Director/VP,14,130000,UK,Asian
+42,Female,Masters,Manager/Director/VP,14,140000,Australia,White
+29,Female,Masters,Software/Developer,6,132720,USA,African American
+29,Male,Bachelors,Software/Developer,4,80000,Australia,Asian
+44,Female,Masters,HR/Human Resources,15,140000,China,Chinese
+44,Female,PhD,Manager/Director/VP,13,135000,UK,Welsh
+27,Female,Masters,Manager/Director/VP,4,80000,UK,Mixed
+41,Female,PhD,Data Analyst/Scientist,16,200000,Australia,Asian
+34,Male,Bachelors,Manager/Director/VP,8,101000,USA,African American
+35,Female,Bachelors,Other,12,166375,China,White
+46,Male,PhD,Data Analyst/Scientist,18,180000,UK,White
+36,Male,Bachelors,Software/Developer,8,135000,Canada,Black
+27,Male,Bachelors,Customer Service/Receptionist,2,40000,Canada,Asian
+27,Male,Bachelors,Software/Developer,3,85000,China,White
+27,Female,Masters,Software/Developer,2,70000,UK,Mixed
+35,Male,Bachelors,Software/Developer,9,125091,Canada,White
+26,Female,Bachelors,Marketing/Social Media,1,45000,China,Chinese
+55,Male,PhD,Software/Developer,18,210000,USA,Hispanic
+48,Male,PhD,Data Analyst/Scientist,22,219000,Australia,Australian
+36,Female,Bachelors,Manager/Director/VP,8,95000,China,Korean
+36,Male,PhD,Data Analyst/Scientist,11,135000,UK,White
+25,Female,High School,Sales,1,35000,Canada,Asian
+32,Female,Masters,Manager/Director/VP,6,80000,Australia,White
+49,Male,Bachelors,Other,22,181132,Australia,Australian
+34,Male,Masters,Data Analyst/Scientist,9,140000,USA,White
+24,Male,PhD,Software/Developer,1,106132,Australia,Asian
+29,Male,Bachelors,Data Analyst/Scientist,4,70000,Canada,Asian
+28,Female,Bachelors,Data Analyst/Scientist,3,65000,UK,Mixed
+31,Female,Masters,Manager/Director/VP,8,120000,Canada,Asian
+27,Female,Bachelors,Software/Developer,3,61000,Australia,Asian
+60,Female,PhD,Software/Developer,33,179180,Australia,Asian
+27,Female,High School,HR/Human Resources,1,32000,Australia,Australian
+31,Male,Masters,Data Analyst/Scientist,9,185000,Australia,Asian
+31,Male,Bachelors,Data Analyst/Scientist,9,190000,Canada,Black
+31,Male,Bachelors,Data Analyst/Scientist,9,195000,UK,Asian
+29,Male,Bachelors,Manager/Director/VP,6,95000,China,White
+25,Male,Bachelors,Data Analyst/Scientist,1,55000,Canada,White
+42,Male,Bachelors,Manager/Director/VP,13,130000,USA,Asian
+29,Female,Masters,HR/Human Resources,3,49000,Canada,Asian
+29,Female,Masters,Software/Developer,4,65000,China,Chinese
+46,Male,Masters,Manager/Director/VP,14,140000,UK,Asian
+44,Female,PhD,Software/Developer,11,165000,China,Chinese
+43,Female,PhD,Manager/Director/VP,15,150000,Australia,Asian
+37,Male,Masters,Manager/Director/VP,14,190000,USA,Asian
+41,Male,PhD,Data Analyst/Scientist,15,155000,Canada,Asian
+36,Male,Masters,Software/Developer,7,140000,Australia,Asian
+45,Male,PhD,Software/Developer,16,185000,UK,White
+21,Female,High School,Sales,0,25000,UK,White
+29,Male,Bachelors,Manager/Director/VP,6,95000,UK,Welsh
+45,Male,PhD,Data Analyst/Scientist,17,155000,UK,Asian
+33,Female,Bachelors,Software/Developer,5,70000,Australia,Australian
+30,Female,Bachelors,Software/Developer,5,90000,Canada,Asian
+42,Male,Masters,Manager/Director/VP,14,180000,China,White
+39,Female,Masters,Manager/Director/VP,11,120000,USA,White
+35,Male,Bachelors,Manager/Director/VP,8,90000,UK,Asian
+26,Female,Masters,Manager/Director/VP,2,120000,UK,Asian
+45,Male,PhD,Other,16,185000,Australia,Australian
+50,Male,PhD,Data Analyst/Scientist,23,225000,USA,Hispanic
+45,Male,PhD,Data Analyst/Scientist,18,180000,Canada,Black
+30,Male,Bachelors,Manager/Director/VP,8,185000,Australia,Asian
+27,Female,Bachelors,Software/Developer,3,70000,Australia,Asian
+27,Male,Bachelors,Software/Developer,3,85000,USA,African American
+35,Male,Bachelors,Manager/Director/VP,10,130000,USA,White
+29,Female,Bachelors,Marketing/Social Media,3,55000,Canada,Black
+29,Female,Bachelors,Product/Designer,2,40000,Australia,Asian
+27,Female,Masters,Software/Developer,2,50000,Canada,White
+56,Male,PhD,Software/Developer,17,195000,China,White
+60,Female,PhD,Software/Developer,34,188651,Canada,Asian
+34,Male,Bachelors,Manager/Director/VP,9,185000,China,Korean
+26,Male,Bachelors,Software/Developer,1,52000,Australia,Asian
+32,Male,Bachelors,Software/Developer,8,190000,UK,Mixed
+33,Male,PhD,Manager/Director/VP,10,155000,China,White
+32,Female,PhD,Data Analyst/Scientist,9,145000,Australia,White
+33,Female,Masters,Other,5,120000,Australia,Australian
+27,Male,Bachelors,Software/Developer,4,140000,Australia,White
+44,Male,PhD,Data Analyst/Scientist,15,150000,USA,African American
+48,Male,PhD,Data Analyst/Scientist,18,210000,Australia,Asian
+25,Female,Bachelors,Software/Developer,1,35000,Australia,White
+29,Male,Bachelors,Manager/Director/VP,6,95000,Australia,Asian
+28,Female,Bachelors,Marketing/Social Media,2,41000,UK,Welsh
+37,Female,Masters,Manager/Director/VP,12,125000,Australia,Australian
+34,Male,PhD,Manager/Director/VP,11,160000,Canada,Asian
+33,Female,Masters,Data Analyst/Scientist,6,95000,Canada,White
+27,Male,Bachelors,Software/Developer,4,140000,China,Korean
+49,Male,Masters,Manager/Director/VP,23,228000,Canada,White
+33,Female,Masters,Manager/Director/VP,9,130000,USA,Asian
+28,Female,Masters,Data Analyst/Scientist,6,150000,China,Korean
+29,Male,Masters,HR/Human Resources,4,70000,USA,Hispanic
+32,Female,Bachelors,Manager/Director/VP,8,80000,Canada,Asian
+34,Male,Bachelors,Manager/Director/VP,9,130000,China,Korean
+29,Female,Bachelors,Software/Developer,4,140000,USA,White
+29,Male,Bachelors,Data Analyst/Scientist,7,130000,Australia,Asian
+26,Male,Masters,Other,3,70216,China,Korean
+30,Male,Masters,Manager/Director/VP,7,120000,China,Korean
+27,Male,High School,Sales,2,35000,China,White
+31,Male,Bachelors,Manager/Director/VP,5,70000,UK,Mixed
+27,Female,Bachelors,HR/Human Resources,2,42000,Canada,Asian
+24,Male,Bachelors,Sales,1,35000,Canada,Asian
+43,Female,PhD,Manager/Director/VP,15,150000,USA,African American
+32,Male,High School,Sales,3,40000,UK,Welsh
+42,Male,Masters,Software/Developer,13,170000,Canada,Asian
+28,Male,Bachelors,Data Analyst/Scientist,3,52000,China,White
+36,Male,PhD,Data Analyst/Scientist,11,135000,Australia,Asian
+51,Female,Masters,Manager/Director/VP,21,190000,USA,Hispanic
+38,Male,Bachelors,Software/Developer,11,136062,USA,Hispanic
+31,Male,Bachelors,Data Analyst/Scientist,9,195000,USA,White
+39,Female,Bachelors,Manager/Director/VP,10,100000,Australia,Australian
+27,Female,Masters,Manager/Director/VP,4,80000,Canada,Asian
+40,Male,PhD,Data Analyst/Scientist,15,150000,Canada,Asian
+28,Male,Bachelors,Data Analyst/Scientist,3,52000,Canada,Black
+28,Male,Bachelors,Software/Developer,3,60000,China,Chinese
+25,Male,High School,Sales,1,26000,Australia,Australian
+35,Male,Bachelors,Software/Developer,8,140000,Australia,Australian
+24,Female,High School,Customer Service/Receptionist,0,25000,China,Chinese
+36,Female,PhD,Data Analyst/Scientist,12,160000,Canada,White
+53,Other,High School,Other,31,166109,Canada,White
+32,Female,Masters,Other,6,115000,Canada,Asian
+29,Male,Bachelors,Data Analyst/Scientist,4,70000,UK,Asian
+31,Male,Bachelors,Software/Developer,4,65000,UK,Mixed
+23,Male,High School,Sales,1,30000,Canada,Asian
+43,Male,Bachelors,Other,18,152560,Australia,Australian
+25,Male,Bachelors,Data Analyst/Scientist,1,55000,Australia,Asian
+39,Female,Masters,Software/Developer,12,160000,Australia,White
+44,Male,Bachelors,Software/Developer,14,130000,Australia,Australian
+48,Male,PhD,Data Analyst/Scientist,18,210000,Canada,Asian
+29,Male,Bachelors,Data Analyst/Scientist,4,70000,Canada,Asian
+27,Male,Bachelors,Product/Designer,2,55000,USA,African American
+33,Male,Bachelors,Manager/Director/VP,7,100000,USA,Hispanic
+25,Female,Bachelors,Software/Developer,1,40000,Australia,Australian
+33,Male,Bachelors,Manager/Director/VP,6,75000,UK,Mixed
+38,Female,Masters,Manager/Director/VP,10,90000,China,Korean
+33,Female,Bachelors,Manager/Director/VP,6,75000,Australia,Australian
+32,Female,Masters,HR/Human Resources,7,80000,USA,White
+44,Male,PhD,Data Analyst/Scientist,18,182000,China,Chinese
+31,Female,PhD,Data Analyst/Scientist,8,140000,UK,Mixed
+37,Male,Masters,Manager/Director/VP,14,190000,Canada,Black
+54,Female,PhD,Software/Developer,32,191267,Australia,Asian
+36,Male,Bachelors,Manager/Director/VP,11,160000,China,Chinese
+26,Female,Bachelors,Sales,2,40000,USA,African American
+36,Male,Bachelors,Software/Developer,8,135000,China,Chinese
+38,Male,Bachelors,Software/Developer,11,136662,Australia,Australian
+43,Female,Masters,Manager/Director/VP,15,150000,Canada,White
+29,Female,High School,Sales,1,25000,UK,White
+51,Male,PhD,Software/Developer,26,191159,China,White
+43,Male,PhD,Other,13,185000,China,Korean
+33,Female,Masters,Manager/Director/VP,9,135000,China,Chinese
+48,Male,PhD,Data Analyst/Scientist,18,210000,USA,White
+51,Female,Masters,Manager/Director/VP,19,190000,UK,White
+28,Female,Bachelors,Software/Developer,2,65000,Australia,Asian
+28,Male,Bachelors,Software/Developer,4,65000,Canada,Asian
+27,Male,Bachelors,Software/Developer,4,160000,Canada,Asian
+30,Female,High School,Sales,1,26000,Australia,Asian
+23,Female,Bachelors,Software/Developer,1,55000,USA,African American
+27,Female,Bachelors,Data Analyst/Scientist,2,110000,UK,Mixed
+33,Female,Masters,Manager/Director/VP,11,198000,USA,White
+39,Female,Bachelors,Manager/Director/VP,16,200000,UK,Mixed
+30,Female,Masters,Other,6,110707,UK,Welsh
+30,Female,PhD,Data Analyst/Scientist,7,185000,Canada,Asian
+35,Male,Bachelors,Manager/Director/VP,7,90000,USA,Hispanic
+25,Female,Bachelors,Data Analyst/Scientist,2,110000,Australia,Asian
+32,Female,Masters,Other,6,115000,USA,African American
+24,Female,Bachelors,Software/Developer,1,55000,UK,Welsh
+35,Female,Bachelors,Software/Developer,10,114776,Australia,Asian
+50,Female,Masters,Manager/Director/VP,19,190000,Australia,White
+38,Female,Bachelors,HR/Human Resources,10,80000,UK,Asian
+27,Male,Bachelors,Software/Developer,3,80000,Canada,Asian
+39,Female,Masters,Software/Developer,12,160000,Canada,Asian
+26,Male,Bachelors,Data Analyst/Scientist,3,130000,China,White
+48,Male,PhD,Data Analyst/Scientist,18,210000,Australia,Asian
+24,Female,Bachelors,Software/Developer,2,55000,China,White
+27,Male,PhD,Data Analyst/Scientist,2,115000,UK,Welsh
+32,Male,PhD,Data Analyst/Scientist,10,150000,Australia,Asian
+30,Female,Bachelors,Manager/Director/VP,4,57000,China,White
+36,Male,Masters,Other,13,146508,USA,Hispanic
+38,Male,Masters,Manager/Director/VP,14,195000,USA,Asian
+28,Female,Bachelors,Software/Developer,5,160000,China,Korean
+38,Male,Masters,Manager/Director/VP,14,195000,USA,African American
+33,Male,PhD,Manager/Director/VP,10,155000,Canada,White
+32,Female,Masters,Other,6,115000,Canada,Asian
+29,Male,Bachelors,Software/Developer,4,71000,Canada,Asian
+32,Male,Bachelors,Manager/Director/VP,7,120000,Canada,White
+28,Female,Masters,Software/Developer,3,90000,USA,Hispanic
+24,Female,High School,Sales,0,25000,Canada,White
+29,Male,Bachelors,Data Analyst/Scientist,4,70000,UK,Asian
+49,Female,PhD,Other,17,195000,Canada,White
+24,Female,High School,Sales,0,25000,Canada,Asian
+31,Female,Bachelors,HR/Human Resources,4,50000,China,Korean
+25,Male,Bachelors,Manager/Director/VP,1,55000,China,Korean
+29,Female,Bachelors,Data Analyst/Scientist,7,130000,China,Korean
+37,Male,Bachelors,Data Analyst/Scientist,11,160000,Canada,Black
+41,Female,Bachelors,Other,20,151315,Australia,Australian
+27,Male,Bachelors,Other,4,115000,USA,White
+28,Female,PhD,Manager/Director/VP,6,105000,USA,White
+32,Male,Bachelors,Financial/Accountant,4,65000,USA,Hispanic
+31,Female,Masters,Other,6,101186,China,Korean
+54,Male,PhD,Software/Developer,17,195000,UK,Asian
+30,Female,High School,Sales,1,25000,Canada,Asian
+49,Female,Masters,Manager/Director/VP,21,180000,Canada,White
+28,Male,Bachelors,Software/Developer,4,75000,USA,Hispanic
+26,Male,Bachelors,Software/Developer,2,60000,China,Chinese
+28,Male,Bachelors,Software/Developer,4,160000,Canada,White
+32,Male,Bachelors,Software/Developer,8,190000,Australia,White
+27,Male,Bachelors,Software/Developer,2,65000,USA,African American
+36,Male,Bachelors,Manager/Director/VP,6,75000,China,Chinese
+50,Female,PhD,Manager/Director/VP,22,180000,Australia,Australian
+52,Female,Masters,Software/Developer,28,186963,Australia,Australian
+38,Male,Bachelors,Manager/Director/VP,11,119000,USA,African American
+35,Female,Masters,Marketing/Social Media,8,85000,UK,Welsh
+23,Male,PhD,Software/Developer,0,52779,UK,Asian
+35,Male,Bachelors,Other,8,145000,Canada,Asian
+35,Female,PhD,Manager/Director/VP,9,95000,USA,Hispanic
+33,Female,Masters,Software/Developer,8,105000,USA,Hispanic
+32,Male,Bachelors,Software/Developer,7,106218,USA,White
+34,Male,Masters,Software/Developer,9,146075,USA,White
+35,Female,Masters,Data Analyst/Scientist,9,120000,USA,African American
+49,Male,PhD,Software/Developer,15,185000,Australia,Australian
+27,Male,Bachelors,Data Analyst/Scientist,2,50000,UK,Welsh
+47,Male,Masters,Manager/Director/VP,19,170000,China,Chinese
+34,Male,Masters,Data Analyst/Scientist,9,125000,UK,Mixed
+27,Female,Bachelors,Software/Developer,3,70000,USA,Asian
+33,Female,Bachelors,Manager/Director/VP,7,90000,Australia,Australian
+32,Male,Bachelors,Manager/Director/VP,6,72000,Canada,White
+34,Male,Masters,Data Analyst/Scientist,8,100000,USA,Asian
+28,Male,PhD,Sales,4,55000,China,Korean
+31,Female,Masters,Other,6,101186,USA,Asian
+27,Male,Bachelors,Software/Developer,3,80000,Canada,Asian
+31,Male,Bachelors,Data Analyst/Scientist,9,195000,UK,Welsh
+31,Female,Masters,Software/Developer,6,114290,Australia,White
+23,Male,Bachelors,Sales,1,35000,Australia,Asian
+37,Male,Masters,Manager/Director/VP,14,190000,Australia,Asian
+26,Male,Bachelors,Software/Developer,2,60000,USA,Asian
+42,Male,Masters,Manager/Director/VP,14,180000,UK,Mixed
+25,Female,Masters,Data Analyst/Scientist,1,100000,Australia,Asian
+36,Male,Bachelors,Manager/Director/VP,8,110000,USA,Asian
+35,Female,Masters,Marketing/Social Media,8,85000,UK,Welsh
+32,Male,Bachelors,Manager/Director/VP,7,120000,USA,Hispanic
+36,Male,Masters,Other,8,140000,USA,Hispanic
+36,Male,PhD,Data Analyst/Scientist,12,170000,UK,Asian
+31,Male,Bachelors,Software/Developer,4,65000,Canada,White
+27,Male,Bachelors,Software/Developer,4,160000,USA,Asian
+29,Male,Bachelors,Software/Developer,4,70000,Australia,Asian
+37,Female,Bachelors,Manager/Director/VP,10,120000,USA,African American
+44,Male,Masters,Other,11,170000,Canada,Asian
+27,Male,Bachelors,Software/Developer,2,70000,Australia,Australian
+50,Female,Masters,Manager/Director/VP,19,190000,China,Chinese
+35,Female,PhD,Manager/Director/VP,9,95000,UK,Welsh
+29,Male,Bachelors,Software/Developer,5,80000,China,White
+33,Female,Masters,Manager/Director/VP,11,195000,USA,White
+28,Male,High School,Sales,2,40000,UK,Welsh
+45,Male,PhD,Data Analyst/Scientist,16,160000,Australia,Asian
+31,Male,Masters,Data Analyst/Scientist,9,195000,Canada,White
+33,Female,Bachelors,Other,7,130000,China,White
+28,Female,Bachelors,IT/Technical Support,2,40000,USA,White
+27,Female,Bachelors,Data Analyst/Scientist,5,120000,Canada,White
+35,Female,Bachelors,Sales,7,90000,USA,African American
+32,Female,Bachelors,Software/Developer,2,45000,Canada,Asian
+29,Female,High School,Sales,1,26000,USA,White
+26,Female,Bachelors,Marketing/Social Media,2,40000,Canada,Asian
+46,Male,PhD,Software/Developer,16,185000,USA,Hispanic
+33,Female,Bachelors,Other,9,133326,USA,Asian
+36,Male,Bachelors,Manager/Director/VP,9,100000,UK,Asian
+50,Male,PhD,Manager/Director/VP,18,180000,Canada,Black
+26,Male,Bachelors,Software/Developer,2,60000,USA,African American
+27,Female,Masters,Manager/Director/VP,4,80000,UK,White
+27,Male,PhD,Manager/Director/VP,4,55000,USA,African American
+32,Female,PhD,Data Analyst/Scientist,9,145000,USA,White
+42,Male,Masters,Manager/Director/VP,14,180000,USA,Hispanic
+47,Male,PhD,Data Analyst/Scientist,19,190000,Canada,Asian
+30,Female,Bachelors,Marketing/Social Media,4,65000,Australia,Australian
+35,Male,Bachelors,Software/Developer,8,140000,USA,African American
+27,Female,Masters,Data Analyst/Scientist,1,50000,China,White
+36,Female,Masters,Manager/Director/VP,11,160000,Australia,Australian
+31,Male,Bachelors,Data Analyst/Scientist,9,195000,China,Chinese
+42,Male,Masters,Manager/Director/VP,14,180000,UK,Welsh
+37,Male,Bachelors,Manager/Director/VP,7,90000,China,Chinese
+29,Female,Masters,Manager/Director/VP,4,80000,UK,Welsh
+32,Male,Masters,Other,11,128078,Canada,Asian
+31,Female,Bachelors,Software/Developer,6,155000,Australia,Asian
+38,Male,Bachelors,Manager/Director/VP,11,119000,USA,Hispanic
+25,Female,Masters,Data Analyst/Scientist,1,100000,China,Chinese
+46,Male,PhD,Other,16,190000,UK,White
+30,Female,PhD,Data Analyst/Scientist,7,185000,China,Korean
+29,Female,Bachelors,Manager/Director/VP,3,55000,China,White
+28,Male,Masters,Manager/Director/VP,3,130000,Canada,Asian
+48,Male,Masters,Manager/Director/VP,18,190000,Canada,Black
+25,Female,Masters,Software/Developer,2,60000,USA,African American
+36,Male,Bachelors,Manager/Director/VP,6,75000,Canada,White
+34,Male,PhD,Manager/Director/VP,12,170000,UK,Welsh
+37,Male,Bachelors,Manager/Director/VP,13,160000,UK,Welsh
+44,Female,PhD,Data Analyst/Scientist,18,183000,Canada,Asian
+40,Female,Masters,Manager/Director/VP,12,130000,UK,White
+31,Male,Bachelors,Software/Developer,4,65000,USA,African American
+33,Female,Masters,Manager/Director/VP,9,130000,USA,African American
+54,Male,Masters,Other,28,191239,Australia,Australian
+30,Female,Bachelors,Marketing/Social Media,5,90000,Canada,Black
+51,Male,Bachelors,Manager/Director/VP,22,180000,Australia,Asian
+43,Male,PhD,Other,13,185000,China,White
+26,Male,Masters,Other,4,91062,USA,African American
+29,Female,Masters,HR/Human Resources,3,49000,Australia,Asian
+34,Male,Masters,Data Analyst/Scientist,8,100000,Canada,Black
+40,Female,Masters,Manager/Director/VP,12,130000,China,White
+30,Male,PhD,Data Analyst/Scientist,7,185000,UK,Welsh
+27,Female,Masters,Manager/Director/VP,4,80000,Australia,Australian
+27,Female,Masters,Other,3,100000,Canada,Asian
+36,Male,PhD,Data Analyst/Scientist,12,170000,Canada,Black
+49,Female,Masters,Manager/Director/VP,21,180000,UK,Mixed
+45,Female,PhD,Product/Designer,15,150000,China,Chinese
+31,Male,Bachelors,Manager/Director/VP,5,70000,USA,African American
+28,Male,Bachelors,Sales,1,30000,USA,African American
+43,Female,PhD,Other,14,190000,Australia,Australian
+41,Male,PhD,Other,13,185000,Australia,White
+33,Male,Masters,Data Analyst/Scientist,7,85000,Australia,Australian
+28,Female,Masters,HR/Human Resources,2,45000,USA,White
+28,Female,Bachelors,Data Analyst/Scientist,3,65000,USA,Asian
+38,Male,Masters,Software/Developer,10,155000,China,White
+26,Male,Bachelors,Software/Developer,1,55000,Australia,Australian
+27,Male,Bachelors,Product/Designer,3,60000,China,Korean
+38,Male,Bachelors,Manager/Director/VP,11,119000,China,Chinese
+34,Female,Bachelors,Manager/Director/VP,6,75000,USA,Asian
+57,Female,PhD,Other,30,121450,Canada,Black
+35,Male,Masters,Manager/Director/VP,8,95000,China,White
+36,Female,Masters,Manager/Director/VP,11,160000,China,White
+32,Male,Bachelors,Manager/Director/VP,7,120000,UK,Mixed
+39,Male,Masters,HR/Human Resources,9,95000,Canada,White
+28,Female,Bachelors,Software/Developer,2,65000,UK,Welsh
+39,Female,Bachelors,Manager/Director/VP,16,210000,UK,Mixed
+31,Male,PhD,Manager/Director/VP,7,90000,China,Korean
+32,Male,Bachelors,Software/Developer,8,190000,China,Korean
+32,Male,Bachelors,Manager/Director/VP,7,120000,Canada,White
+30,Male,Bachelors,Software/Developer,5,100000,Canada,Asian
+27,Male,Bachelors,Software/Developer,3,80000,USA,African American
+26,Male,High School,Manager/Director/VP,2,40000,China,Chinese
+30,Female,Bachelors,Marketing/Social Media,5,90000,USA,Hispanic
+33,Female,Bachelors,Other,7,130000,USA,Asian
+31,Male,Bachelors,Software/Developer,6,115000,Australia,Australian
+32,Male,High School,Sales,3,50000,Australia,Australian
+24,Male,Bachelors,Data Analyst/Scientist,1,90000,Australia,White
+36,Male,PhD,Data Analyst/Scientist,12,170000,Australia,White
+31,Male,Masters,Data Analyst/Scientist,7,130000,Australia,White
+39,Female,Bachelors,Manager/Director/VP,16,200000,Canada,Asian
+45,Male,PhD,Other,14,185000,USA,Hispanic
+30,Female,PhD,Data Analyst/Scientist,7,170000,Australia,Australian
+50,Female,Masters,Manager/Director/VP,19,190000,UK,Welsh
+28,Female,Bachelors,Data Analyst/Scientist,3,60000,China,Korean
+26,Female,Bachelors,Data Analyst/Scientist,3,130000,Australia,Asian
+24,Male,Bachelors,Software/Developer,1,55000,USA,Hispanic
+41,Male,PhD,Data Analyst/Scientist,13,140000,UK,Welsh
+26,Male,Bachelors,HR/Human Resources,2,50000,China,White
+38,Male,Bachelors,Software/Developer,11,136662,USA,Hispanic
+43,Male,Masters,Other,20,167924,Canada,Black
+27,Male,Bachelors,Software/Developer,4,68732,UK,Mixed
+28,Male,Bachelors,Data Analyst/Scientist,4,80000,China,White
+36,Male,Bachelors,Manager/Director/VP,6,75000,UK,Mixed
+52,Male,Masters,Software/Developer,27,186794,China,Korean
+33,Male,Masters,Data Analyst/Scientist,8,120000,Australia,Asian
+36,Male,Masters,Other,7,130000,Canada,Asian
+34,Female,Masters,Manager/Director/VP,12,196000,Canada,White
+23,Female,Bachelors,Software/Developer,1,40000,USA,Asian
+26,Male,Bachelors,Manager/Director/VP,5,85000,China,Korean
+33,Female,Masters,Manager/Director/VP,9,130000,USA,Hispanic
+33,Male,Masters,Manager/Director/VP,11,195000,USA,White
+26,Male,High School,Sales,2,30000,Australia,Australian
+30,Female,PhD,Data Analyst/Scientist,7,185000,USA,Asian
+27,Male,Bachelors,Product/Designer,3,60000,UK,Asian
+31,Male,Bachelors,Data Analyst/Scientist,9,195000,UK,Asian
+30,Female,Masters,Other,5,100867,Canada,Black
+26,Male,Bachelors,Product/Designer,1,50000,USA,White
+30,Male,Bachelors,Software/Developer,5,100000,Canada,Black
+26,Female,Bachelors,Software/Developer,2,35000,China,White
+44,Male,PhD,Data Analyst/Scientist,17,168000,Canada,Black
+43,Male,PhD,Other,13,185000,Australia,Asian
+24,Female,High School,Sales,1,30000,China,Korean
+27,Female,Bachelors,Marketing/Social Media,2,50000,China,Korean
+32,Male,Bachelors,Software/Developer,8,190000,UK,Asian
+37,Male,Masters,Software/Developer,10,150000,USA,African American
+24,Male,High School,Sales,1,25000,Canada,White
+26,Female,Masters,HR/Human Resources,2,55000,China,Korean
+27,Male,Masters,Software/Developer,2,50000,Canada,Asian
+24,Female,Bachelors,Software/Developer,1,45000,USA,Hispanic
+26,Female,Bachelors,Product/Designer,1,45000,Australia,Australian
+33,Male,PhD,Data Analyst/Scientist,8,190000,UK,White
+29,Male,Bachelors,Data Analyst/Scientist,3,65000,China,White
+32,Male,Bachelors,Marketing/Social Media,3,55000,Canada,White
+30,Female,Masters,Other,5,102465,USA,White
+27,Male,Bachelors,Software/Developer,3,85000,Canada,Black
+24,Female,Bachelors,Software/Developer,2,55000,Australia,Asian
+29,Female,Bachelors,Marketing/Social Media,2,40000,Australia,Australian
+26,Male,Bachelors,Product/Designer,2,55000,China,Chinese
+29,Female,Bachelors,Marketing/Social Media,3,55000,Canada,Asian
+40,Male,PhD,Data Analyst/Scientist,15,150000,USA,Asian
+50,Female,Masters,Manager/Director/VP,19,190000,USA,White
+51,Male,PhD,Software/Developer,16,190000,USA,Hispanic
+26,Male,Bachelors,Data Analyst/Scientist,3,120000,USA,White
+41,Male,PhD,Data Analyst/Scientist,12,130000,USA,White
+23,Male,Bachelors,Sales,1,35000,China,White
+46,Male,PhD,Other,15,180000,USA,African American
+25,Female,Masters,Software/Developer,2,60000,UK,Asian
+26,Male,Bachelors,Software/Developer,2,60000,USA,African American
+43,Male,Bachelors,Manager/Director/VP,14,140000,China,White
+43,Male,PhD,Other,15,180000,Canada,White
+43,Male,PhD,Other,13,185000,Australia,Asian
+36,Female,PhD,Manager/Director/VP,10,100000,USA,Asian
+26,Male,Bachelors,Data Analyst/Scientist,3,130000,China,White
+34,Male,Masters,Data Analyst/Scientist,9,140000,Canada,Black
+25,Male,Bachelors,Manager/Director/VP,1,60000,UK,White
+25,Female,Bachelors,Data Analyst/Scientist,2,100000,Canada,Asian
+26,Male,High School,Manager/Director/VP,2,40000,Australia,Australian
+30,Male,Bachelors,Software/Developer,5,100000,Canada,White
+43,Female,Masters,Manager/Director/VP,14,146000,Australia,White
+34,Male,Bachelors,Operations/Supply Chain,7,90000,China,White
+27,Male,Bachelors,Software/Developer,3,80000,Canada,Black
+34,Female,PhD,Manager/Director/VP,10,150000,China,Korean
+39,Male,PhD,Data Analyst/Scientist,14,185000,UK,White
+54,Male,Masters,Other,28,191239,Canada,White
+30,Male,High School,HR/Human Resources,2,33000,USA,Hispanic
+27,Female,Bachelors,Software/Developer,2,48000,USA,White
+28,Female,Bachelors,HR/Human Resources,3,50000,Canada,Asian
+46,Female,Bachelors,Software/Developer,18,155795,UK,Mixed
+32,Female,PhD,Data Analyst/Scientist,9,145000,USA,Asian
+38,Female,PhD,Data Analyst/Scientist,12,140000,China,Chinese
+40,Male,PhD,Software/Developer,12,160000,UK,Mixed
+27,Female,Bachelors,Software/Developer,3,70000,Australia,Asian
+33,Female,Bachelors,Other,8,124071,China,White
+33,Female,Bachelors,Data Analyst/Scientist,5,50000,Australia,Australian
+34,Male,Bachelors,Manager/Director/VP,9,185000,China,White
+34,Male,Masters,Other,7,140000,UK,White
+39,Female,Masters,Marketing/Social Media,11,120000,China,Korean
+28,Male,Bachelors,Software/Developer,2,70000,UK,Mixed
+27,Male,Bachelors,Software/Developer,3,80000,Canada,White
+41,Female,Masters,Marketing/Social Media,13,131000,Canada,Black
+25,Female,Bachelors,Data Analyst/Scientist,2,110000,UK,Mixed
+31,Male,Bachelors,Sales,3,50000,China,Korean
+31,Female,Bachelors,Software/Developer,6,155000,China,Chinese
+26,Female,Masters,HR/Human Resources,3,50000,Canada,Black
+28,Female,Masters,Manager/Director/VP,7,110000,Canada,Asian
+28,Male,Bachelors,Software/Developer,4,65000,Canada,White
+33,Male,Bachelors,Manager/Director/VP,7,85000,Canada,Asian
+28,Female,Bachelors,Software/Developer,2,65000,Canada,Asian
+32,Male,Bachelors,Manager/Director/VP,7,120000,China,Chinese
+48,Male,PhD,Data Analyst/Scientist,18,210000,Canada,Black
+46,Male,PhD,Software/Developer,14,180000,Canada,White
+43,Male,PhD,Data Analyst/Scientist,17,179000,UK,Asian
+32,Male,Masters,Manager/Director/VP,7,110000,Canada,Asian
+23,Female,Bachelors,HR/Human Resources,1,32000,China,Korean
+41,Female,Bachelors,Other,11,95000,Canada,Black
+27,Male,High School,Manager/Director/VP,2,40000,Canada,Black
+37,Male,Masters,Software/Developer,9,150000,UK,Mixed
+28,Female,High School,Sales,1,30000,Australia,Australian
+26,Male,Bachelors,Product/Designer,2,55000,Canada,White
+24,Female,Bachelors,Software/Developer,1,40000,China,Chinese
+45,Female,PhD,Software/Developer,23,172925,UK,Mixed
+35,Female,PhD,Manager/Director/VP,9,95000,China,Chinese
+28,Female,Bachelors,Data Analyst/Scientist,3,60000,China,Chinese
+28,Female,Bachelors,Software/Developer,5,160000,Canada,Asian
+35,Male,Masters,Manager/Director/VP,7,105000,Canada,Asian
+30,Male,Bachelors,Manager/Director/VP,5,70000,USA,African American
+28,Female,Bachelors,Software/Developer,5,160000,Australia,Asian
+26,Male,High School,Sales,2,35000,Australia,Asian
+43,Male,PhD,Data Analyst/Scientist,16,162000,USA,African American
+41,Female,PhD,Data Analyst/Scientist,16,200000,USA,Hispanic
+27,Male,PhD,Manager/Director/VP,4,55000,Australia,White
+34,Male,Bachelors,Software/Developer,12,195000,UK,White
+26,Male,Bachelors,Software/Developer,2,60000,China,Chinese
+40,Female,Bachelors,Manager/Director/VP,16,215000,Canada,Black
+44,Female,Masters,Software/Developer,11,170000,China,Korean
+32,Male,Bachelors,Manager/Director/VP,7,120000,Canada,White
+29,Male,Bachelors,Software/Developer,4,65000,China,Chinese
+39,Female,Bachelors,Manager/Director/VP,16,200000,Canada,White
+31,Female,Bachelors,Software/Developer,6,155000,China,Chinese
+31,Male,Bachelors,Manager/Director/VP,5,70000,China,Korean
+30,Female,PhD,Data Analyst/Scientist,7,185000,USA,Asian
+56,Male,PhD,Software/Developer,17,195000,China,White
+27,Male,Bachelors,Software/Developer,3,80000,UK,Welsh
+45,Male,PhD,Other,16,185000,UK,Asian
+62,Male,PhD,Software/Developer,19,200000,UK,White
+25,Female,Bachelors,Software/Developer,1,55000,Canada,Black
+39,Female,Masters,Marketing/Social Media,11,120000,USA,Hispanic
+27,Female,Masters,Manager/Director/VP,4,80000,China,Chinese
+30,Male,Masters,Manager/Director/VP,7,120000,Australia,Asian
+30,Male,Bachelors,Software/Developer,5,100000,UK,Asian
+30,Female,Bachelors,Marketing/Social Media,4,65000,China,Chinese
+44,Female,PhD,Product/Designer,15,145000,USA,Hispanic
+26,Female,High School,Sales,1,35000,USA,Hispanic
+25,Female,Bachelors,Data Analyst/Scientist,2,110000,USA,Asian
+30,Male,Masters,Data Analyst/Scientist,6,100000,Australia,Australian
+35,Female,Masters,Manager/Director/VP,8,92000,China,Korean
+34,Male,Masters,Data Analyst/Scientist,8,100000,USA,African American
+24,Male,Bachelors,Software/Developer,1,55000,UK,Welsh
+42,Female,Masters,Manager/Director/VP,14,140000,USA,Asian
+28,Male,Bachelors,Data Analyst/Scientist,3,52000,Australia,Asian
+32,Male,Bachelors,Software/Developer,8,190000,Australia,White
+32,Male,Bachelors,Software/Developer,8,190000,Australia,Asian
+45,Female,Masters,Software/Developer,23,174336,Canada,Asian
+27,Male,Bachelors,Software/Developer,3,60000,UK,Asian
+33,Female,Masters,Manager/Director/VP,8,120000,USA,Asian
+29,Female,PhD,Other,5,98568,Australia,White
+50,Male,PhD,Other,19,200000,China,Korean
+33,Female,Masters,Manager/Director/VP,11,198000,Canada,Black
+37,Female,Bachelors,Other,13,137336,Australia,White
+26,Male,Bachelors,Product/Designer,2,55000,Canada,White
+24,Female,Bachelors,Software/Developer,2,55000,Australia,Asian
+30,Female,Bachelors,Software/Developer,5,90000,UK,Welsh
+45,Male,PhD,Manager/Director/VP,14,140000,UK,Asian
+50,Male,PhD,Data Analyst/Scientist,23,225000,UK,Welsh
+38,Male,Masters,HR/Human Resources,8,95000,UK,Welsh
+32,Male,Bachelors,Software/Developer,8,190000,Canada,Asian
+27,Male,Bachelors,Software/Developer,2,65000,UK,White
+26,Male,Bachelors,Data Analyst/Scientist,2,50000,Canada,Asian
+44,Male,Bachelors,Manager/Director/VP,16,125000,China,Chinese
+36,Female,PhD,Data Analyst/Scientist,13,185000,Australia,White
+36,Male,Bachelors,Marketing/Social Media,8,95000,Canada,White
+28,Female,High School,HR/Human Resources,2,43000,China,White
+30,Female,Bachelors,Marketing/Social Media,4,57000,USA,Asian
+23,Female,Bachelors,Software/Developer,1,55000,Australia,Australian
+41,Female,Bachelors,Manager/Director/VP,8,80000,China,Chinese
+42,Male,Masters,Manager/Director/VP,14,180000,Australia,Australian
+29,Male,Bachelors,Data Analyst/Scientist,4,75000,UK,White
+29,Female,Bachelors,Marketing/Social Media,3,55000,USA,Asian
+42,Male,PhD,Software/Developer,14,170000,China,Korean
+37,Male,Masters,Manager/Director/VP,14,180000,China,Chinese
+36,Male,Bachelors,Software/Developer,8,135000,Canada,Asian
+40,Female,Bachelors,Manager/Director/VP,16,215000,China,Chinese
+33,Male,Bachelors,Manager/Director/VP,8,120000,Canada,Asian
+42,Male,PhD,Software/Developer,14,170000,USA,Asian
+32,Male,Bachelors,Manager/Director/VP,7,120000,Australia,White
+24,Female,High School,Sales,1,30000,USA,African American
+26,Male,Bachelors,Manager/Director/VP,5,85000,USA,White
+27,Male,Bachelors,Software/Developer,2,70000,Australia,White
+37,Female,Bachelors,Other,10,149217,China,White
+28,Female,Bachelors,Software/Developer,3,80000,Canada,Black
+33,Male,Bachelors,Software/Developer,6,110000,Australia,Asian
+27,Female,Bachelors,Software/Developer,2,48000,Canada,Asian
+29,Female,Masters,Data Analyst/Scientist,6,150000,USA,White
+30,Female,High School,Sales,1,26000,China,Chinese
+26,Female,High School,HR/Human Resources,2,35000,UK,Mixed
+31,Female,High School,Sales,1,25000,Canada,White
+36,Female,Bachelors,Sales,2,35000,USA,Hispanic
+51,Male,PhD,Manager/Director/VP,19,190000,Canada,White
+28,Female,Bachelors,Software/Developer,5,150000,Canada,White
+31,Male,Masters,Other,6,125000,China,Korean
+35,Male,Bachelors,Software/Developer,8,140000,Australia,Australian
+31,Female,Masters,Data Analyst/Scientist,6,180000,China,Korean
+28,Female,Bachelors,Software/Developer,5,160000,Australia,Asian
+24,Female,High School,Customer Service/Receptionist,0,25000,China,Korean
+28,Female,Bachelors,Marketing/Social Media,3,60000,UK,Asian
+24,Male,Bachelors,Data Analyst/Scientist,1,90000,China,Korean
+39,Female,Bachelors,Marketing/Social Media,10,65000,Canada,White
+27,Male,Bachelors,Software/Developer,2,70000,USA,African American
+41,Male,Masters,Other,13,130000,UK,Asian
+50,Female,Bachelors,Other,25,177862,Canada,White
+39,Female,Masters,Manager/Director/VP,11,120000,China,Chinese
+31,Male,Bachelors,Data Analyst/Scientist,9,190000,Canada,White
+31,Female,Bachelors,Marketing/Social Media,4,65000,Australia,Asian
+37,Male,Bachelors,Data Analyst/Scientist,11,160000,UK,White
+31,Female,PhD,Data Analyst/Scientist,8,140000,China,Chinese
+26,Female,Masters,Software/Developer,4,76898,UK,White
+29,Female,Masters,Software/Developer,4,65000,UK,Mixed
+39,Female,Masters,Software/Developer,12,160000,Australia,Australian
+32,Female,Masters,Other,5,120000,Canada,Black
+21,Female,High School,Sales,0,25000,China,Korean
+29,Female,Bachelors,Software/Developer,4,90000,Canada,White
+37,Female,Masters,Software/Developer,11,110000,Australia,Asian
+31,Male,High School,HR/Human Resources,2,35000,Canada,White
+47,Male,PhD,Data Analyst/Scientist,21,180000,China,White
+33,Female,Masters,Manager/Director/VP,11,195000,UK,White
+30,Male,Masters,Other,6,105725,Canada,White
+35,Female,Masters,Manager/Director/VP,10,110000,USA,White
+37,Male,Masters,Software/Developer,9,120000,Australia,Australian
+26,Male,Bachelors,Software/Developer,3,60000,Australia,Asian
+28,Male,Bachelors,Software/Developer,4,75000,USA,African American
+26,Male,Masters,Other,3,70216,USA,White
+30,Male,Bachelors,Manager/Director/VP,5,70000,USA,Asian
+24,Male,Bachelors,Data Analyst/Scientist,2,95000,Canada,Black
+41,Female,Masters,Marketing/Social Media,13,131000,UK,Welsh
+49,Male,PhD,Data Analyst/Scientist,22,220000,China,White
+48,Male,PhD,Data Analyst/Scientist,18,210000,UK,White
+49,Female,PhD,Other,17,195000,USA,African American
+32,Female,Masters,Manager/Director/VP,8,120000,UK,Mixed
+27,Female,Bachelors,Software/Developer,3,70000,UK,White
+27,Female,Masters,HR/Human Resources,3,50000,Australia,Asian
+37,Male,Masters,Manager/Director/VP,14,190000,UK,Mixed
+26,Male,Bachelors,Software/Developer,2,60000,Australia,Australian
+28,Female,Bachelors,HR/Human Resources,3,45000,Australia,White
+33,Female,Masters,Software/Developer,8,105000,USA,White
+51,Male,PhD,Data Analyst/Scientist,24,240000,China,Korean
+28,Male,Bachelors,Other,2,40000,USA,Asian
+25,Male,Bachelors,Software/Developer,2,90249,China,White
+45,Male,PhD,Data Analyst/Scientist,19,190000,UK,Mixed
+38,Female,Masters,Manager/Director/VP,14,170000,USA,Hispanic
+32,Male,Masters,Software/Developer,6,80000,Australia,White
+27,Male,PhD,Manager/Director/VP,4,55000,Canada,Asian
+27,Female,Bachelors,Software/Developer,3,70000,UK,Welsh
+54,Male,PhD,Software/Developer,18,195000,USA,White
+25,Female,High School,Sales,0,25000,Canada,White
+29,Female,Bachelors,Software/Developer,3,85000,UK,White
+31,Male,Bachelors,Manager/Director/VP,9,140000,USA,African American
+40,Male,PhD,Manager/Director/VP,13,135000,USA,African American
+33,Male,Bachelors,Software/Developer,6,110000,USA,Asian
+33,Female,Masters,Manager/Director/VP,11,198000,USA,African American
+48,Male,PhD,Data Analyst/Scientist,18,210000,USA,White
+41,Male,PhD,Other,13,185000,Australia,Asian
+37,Male,Bachelors,Data Analyst/Scientist,9,100000,UK,Mixed
+36,Male,Bachelors,Data Analyst/Scientist,8,95000,China,Chinese
+24,Female,Bachelors,Software/Developer,2,55000,China,Chinese
+35,Male,Masters,Other,9,132638,UK,White
+23,Female,Bachelors,Software/Developer,1,50000,USA,Hispanic
+25,Male,Bachelors,Manager/Director/VP,1,60000,USA,African American
+34,Male,PhD,Manager/Director/VP,11,160000,USA,Hispanic
+30,Female,PhD,Data Analyst/Scientist,7,185000,Australia,Asian
+39,Male,Masters,HR/Human Resources,11,100000,Australia,White
+39,Female,Masters,Manager/Director/VP,11,120000,Canada,Asian
+25,Female,Bachelors,Software/Developer,1,35000,UK,Mixed
+29,Male,Bachelors,Data Analyst/Scientist,1,40000,Australia,Australian
+27,Male,Bachelors,Software/Developer,4,140000,China,Korean
+30,Female,PhD,Data Analyst/Scientist,7,170000,Canada,White
+41,Female,Bachelors,Manager/Director/VP,11,110000,Australia,Asian
+27,Male,Bachelors,Software/Developer,4,160000,UK,Mixed
+45,Male,PhD,Other,16,185000,UK,Welsh
+30,Male,High School,HR/Human Resources,2,33000,Canada,Asian
+36,Male,PhD,Data Analyst/Scientist,12,170000,UK,White
+50,Female,PhD,Manager/Director/VP,22,180000,Australia,White
+28,Female,Bachelors,Software/Developer,5,160000,UK,Mixed
+42,Male,PhD,Software/Developer,14,170000,Australia,White
+26,Male,Bachelors,Manager/Director/VP,5,85000,UK,Welsh
+36,Male,Bachelors,Software/Developer,8,135000,China,White
+36,Male,PhD,Data Analyst/Scientist,12,170000,China,Chinese
+27,Female,Masters,Other,3,100000,Australia,Asian
+29,Female,Bachelors,Manager/Director/VP,4,55000,UK,Mixed
+36,Female,Masters,Manager/Director/VP,11,160000,USA,White
+45,Male,PhD,Data Analyst/Scientist,19,190000,Australia,White
+31,Female,Masters,Manager/Director/VP,8,120000,Australia,Asian
+28,Female,PhD,Data Analyst/Scientist,5,100000,UK,White
+26,Male,High School,Sales,2,31000,USA,Hispanic
+35,Female,Masters,Data Analyst/Scientist,9,120000,China,White
+45,Male,Masters,Software/Developer,22,182506,UK,Asian
+34,Male,Masters,Software/Developer,9,150000,USA,Hispanic
+24,Male,High School,Other,0,28000,UK,White
+28,Male,Bachelors,Software/Developer,4,75000,UK,Mixed
+27,Female,Masters,Software/Developer,2,70000,USA,Asian
+33,Female,Bachelors,Other,7,130000,Canada,White
+29,Male,Bachelors,Data Analyst/Scientist,4,75000,UK,Mixed
+40,Female,Masters,Marketing/Social Media,12,122000,UK,Mixed
+25,Male,Bachelors,Manager/Director/VP,1,60000,USA,Hispanic
+54,Male,PhD,Software/Developer,17,195000,USA,Asian
+45,Male,Masters,Manager/Director/VP,13,130000,Australia,Australian
+28,Male,Bachelors,Software/Developer,4,160000,Canada,White
+35,Male,PhD,Data Analyst/Scientist,10,130000,Australia,Australian
+44,Female,PhD,Data Analyst/Scientist,16,140000,UK,Mixed
+29,Female,Bachelors,Other,6,103579,Australia,Australian
+30,Male,Masters,Other,5,105000,China,Korean
+36,Male,Bachelors,Manager/Director/VP,9,110000,China,Korean
+21,Female,High School,Sales,0,25000,USA,White
+35,Male,PhD,Data Analyst/Scientist,10,130000,Canada,White
+32,Female,Bachelors,Manager/Director/VP,8,80000,USA,Hispanic
+26,Male,Masters,Manager/Director/VP,3,50000,UK,Mixed
+24,Male,Bachelors,Data Analyst/Scientist,1,95000,UK,Mixed
+37,Male,Bachelors,Manager/Director/VP,10,95000,USA,Asian
+30,Male,Bachelors,Software/Developer,4,95000,USA,White
+27,Female,High School,Sales,3,40000,Canada,White
+45,Male,PhD,Other,16,185000,Canada,Black
+29,Female,High School,Sales,2,40000,UK,Mixed
+54,Male,Bachelors,Other,29,191915,Canada,Asian
+45,Male,Masters,Manager/Director/VP,19,175000,Canada,Black
+41,Male,Bachelors,Manager/Director/VP,12,120000,Canada,Black
+25,Female,Masters,Data Analyst/Scientist,1,100000,Australia,Australian
+37,Male,Masters,Manager/Director/VP,14,190000,UK,White
+49,Female,PhD,Other,19,210000,USA,Hispanic
+23,Female,Bachelors,Software/Developer,1,50000,UK,Mixed
+25,Male,Bachelors,Data Analyst/Scientist,3,135000,Australia,Asian
+26,Male,Bachelors,Software/Developer,2,60000,China,White
+50,Female,Bachelors,Manager/Director/VP,18,180000,Canada,Black
+29,Male,Bachelors,Data Analyst/Scientist,7,130000,Canada,White
+29,Female,Masters,Data Analyst/Scientist,6,180000,UK,Welsh
+28,Female,Masters,Data Analyst/Scientist,6,155000,China,Korean
+28,Female,Bachelors,Software/Developer,5,160000,China,White
+42,Male,PhD,Software/Developer,14,170000,Canada,Asian
+27,Male,Bachelors,Product/Designer,3,60000,Canada,Black
+42,Female,Masters,Manager/Director/VP,14,140000,USA,Hispanic
+28,Male,Bachelors,Software/Developer,2,70000,USA,Hispanic
+42,Male,PhD,Software/Developer,14,170000,Australia,White
+42,Female,Masters,Other,11,170000,Canada,Asian
+33,Female,Masters,Software/Developer,8,105000,Canada,White
+36,Male,PhD,Data Analyst/Scientist,12,170000,Canada,Black
+28,Male,Bachelors,Data Analyst/Scientist,3,52000,Canada,Black
+34,Male,Masters,Software/Developer,8,140000,UK,Asian
+42,Male,PhD,Software/Developer,14,170000,China,Korean
+38,Female,PhD,Data Analyst/Scientist,12,140000,UK,Mixed
+25,Female,Masters,Software/Developer,2,60000,UK,Asian
+25,Female,Bachelors,Data Analyst/Scientist,2,100000,USA,White
+26,Female,Bachelors,Product/Designer,1,45000,China,Chinese
+30,Male,Bachelors,Software/Developer,5,100000,USA,White
+31,Male,Bachelors,Marketing/Social Media,3,55000,Canada,Black
+41,Male,PhD,Data Analyst/Scientist,13,140000,Canada,Black
+24,Male,Bachelors,Data Analyst/Scientist,1,90000,Canada,Black
+43,Male,Bachelors,Manager/Director/VP,16,140000,UK,White
+28,Male,Bachelors,Data Analyst/Scientist,3,52000,UK,Asian
+28,Female,Bachelors,Software/Developer,2,36000,UK,Asian
+30,Female,Bachelors,Data Analyst/Scientist,5,145000,China,White
+28,Male,Bachelors,Product/Designer,3,60000,UK,Mixed
+34,Male,PhD,Manager/Director/VP,12,170000,USA,Hispanic
+30,Female,PhD,Data Analyst/Scientist,7,185000,Canada,Asian
+45,Male,PhD,Other,16,185000,UK,White
+29,Female,Bachelors,Software/Developer,3,85000,Australia,Australian
+28,Male,Bachelors,Data Analyst/Scientist,3,65000,UK,Mixed
+33,Female,Bachelors,Other,7,130000,China,White
+38,Male,Masters,Manager/Director/VP,14,195000,Canada,Asian
+46,Male,Masters,Manager/Director/VP,14,140000,Australia,Asian
+49,Female,Masters,Manager/Director/VP,19,150000,Australia,White
+31,Female,PhD,Data Analyst/Scientist,8,140000,USA,White
+27,Male,Bachelors,Software/Developer,2,65000,China,White
+32,Male,High School,Sales,3,50000,UK,White
+44,Male,PhD,Data Analyst/Scientist,17,168000,Canada,White
+27,Female,Bachelors,Sales,3,45000,Canada,White
+26,Female,Masters,Software/Developer,3,73218,Canada,White
+28,Female,Bachelors,Data Analyst/Scientist,3,65000,UK,White
+28,Female,PhD,Manager/Director/VP,6,105000,Australia,Australian
+39,Female,Bachelors,Other,10,55000,Canada,Black
+26,Male,Bachelors,Software/Developer,3,60000,Canada,White
