@@ -1,4 +1,4 @@
-Age,Gender,Education Level,Job Title,Years of Experience,Salary,Country,Race
+Age,Gender,EducationLevel,JobTitle,YearsofExperience,Salary,Country,Race
 32,Male,Bachelors,Software/Developer,5,90000,UK,White
 28,Female,Masters,Data Analyst/Scientist,3,65000,USA,Hispanic
 45,Male,PhD,Manager/Director/VP,15,150000,Canada,White

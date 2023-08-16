@@ -1,4 +1,4 @@
-Age,Gender,Education Level,Job Title,Years of Experience,Salary,Country,Race
+Age,Gender,EducationLevel,JobTitle,YearsofExperience,Salary,Country,Race
 36,Male,Masters,Software/Developer,9,150000,China,White
 27,Female,Masters,Software/Developer,4,75969,Australia,White
 25,Female,Masters,Data Analyst/Scientist,1,100000,China,Korean

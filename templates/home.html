@@ -1,0 +1,162 @@
+<html>
+<body>
+    <div class="login">
+       <h1>Welcome to the Application</h1>
+   
+       <form action="{{ url_for('predict_datapoint')}}" method="post">
+        <h1>
+            <legend>Salary Prediction</legend>
+        </h1>
+        <div class="mb-3">
+            <label class="form-label">Enter your Age</label>
+            <input class="form-control" type="number" name="Age"
+                placeholder="Enter your Age" min='0' max='100' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Gender</label>
+            <select class="form-control" name="Gender" placeholder="Enter you Gender" required>
+                <option class="placeholder" selected disabled value="">Select your Gender</option>
+                <option value="Male">
+                    Male
+                </option>
+                <option value="Female">
+                    Female
+                </option>
+                <option value="Other">
+                    Other
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Education Level</label>
+            <select class="form-control" name="EducationLevel" placeholder="Enter you Education Level" required>
+                <option class="placeholder" selected disabled value="">Select Education Level</option>
+                <option value="Bachelors">
+                    Bachelors
+                </option>
+                <option value="Masters">
+                    Masters
+                </option>
+                <option value="PhD">
+                    PhD
+                </option>
+                <option value="High School">
+                    High School
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Job Title</label>
+            <select class="form-control" name="JobTitle"
+                placeholder="Enter you Job Title" required>
+                <option class="placeholder" selected disabled value="">Select Job Title</option>
+                <option value="Software/Developer">
+                    Software/Developer
+                </option>
+                <option value="Manager/Director/VP">
+                    Manager/Director/VP
+                </option>
+                <option value="Data Analyst/Scientist">
+                    Data Analyst/Scientist
+                </option>
+                <option value="Sales">
+                    Sales
+                </option>
+                <option value="Marketing/Social Media">
+                    Marketing/Social Media
+                </option>
+                <option value="HR/Human Resources">
+                    HR/Human Resources
+                </option>
+                <option value="Product/Designer">
+                    Product/Designer
+                </option>
+                <option value="Customer Service/Receptionist">
+                    Customer Service/Receptionist
+                </option>
+                <option value="IT/Technical Support">
+                    IT/Technical Support
+                </option>
+                <option value="Financial/Accountant">
+                    Financial/Accountant
+                </option>
+                <option value="Operations/Supply Chain">
+                    Operations/Supply Chain
+                </option>
+                <option value="Other">
+                    Other
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Years of Experience</label>
+            <input class="form-control" type="number" name="YearsofExperience"
+                placeholder="Enter your Years of Experience" min='0' max='100' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Country</label>
+            <select class="form-control" name="Country" placeholder="Enter your Country" required>
+                <option class="placeholder" selected disabled value="">Select Country</option>
+                <option value="USA">
+                    USA 
+                </option>
+                <option value="China">
+                    China
+                </option>
+                <option value="Australia">
+                    Australia
+                </option>
+                <option value="UK">
+                    UK
+                </option>
+                <option value="Canada">
+                    Canada
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Race</label>
+            <select class="form-control" name="Race" placeholder="Enter your Race"
+                required>
+                <option class="placeholder" selected disabled value="">Select Race</option>
+                <option value="White">
+                    White
+                </option>
+                <option value="Asian">
+                    Asian
+                </option>
+                <option value="Korean">
+                    Korean
+                </option>
+                <option value="Australian">
+                    Australian
+                </option>
+                <option value="Chinese">
+                    Chinese
+                </option>
+                <option value="Black">
+                    Black
+                </option>
+                <option value="African American">
+                    African American
+                </option>
+                <option value="Mixed">
+                    Mixed
+                </option>
+                <option value="Welsh">
+                    Welsh
+                </option>
+                <option value="Hispanic">
+                    Hispanic
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <input class="btn btn-primary" type="submit" value="Predict your Income" required />
+        </div>
+    </form>
+    <h2>
+       The Salary prediction is {{results}}
+    </h2>
+   <body>
+</html>

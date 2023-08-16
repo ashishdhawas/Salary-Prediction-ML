@@ -29,11 +29,11 @@ class DataTransformation:
         
         '''
         try:
-            numerical_columns = ["Age", "Years of Experience"]
+            numerical_columns = ["Age", "YearsofExperience"]
             categorical_columns = [
                 "Gender",
-                "Education Level",
-                "Job Title",
+                "EducationLevel",
+                "JobTitle",
                 "Country",
                 "Race",
             ]
@@ -85,11 +85,11 @@ class DataTransformation:
             preprocessing_obj=self.get_data_transformer_object()
 
             target_column_name="Salary"
-            numerical_columns = ["Age", "Years of Experience"]
+            numerical_columns = ["Age", "YearsofExperience"]
             categorical_columns = [
                 "Gender",
-                "Education Level",
-                "Job Title",
+                "EducationLevel",
+                "JobTitle",
                 "Country",
                 "Race",
             ]

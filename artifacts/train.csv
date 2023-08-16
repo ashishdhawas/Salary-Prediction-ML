@@ -1,4 +1,4 @@
-Age,Gender,Education Level,Job Title,Years of Experience,Salary,Country,Race
+Age,Gender,EducationLevel,JobTitle,YearsofExperience,Salary,Country,Race
 39,Male,Masters,HR/Human Resources,10,105000,USA,Asian
 38,Female,Masters,Software/Developer,10,155000,UK,Asian
 35,Female,PhD,Manager/Director/VP,12,175000,Canada,Black
