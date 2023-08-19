@@ -8,7 +8,7 @@
 
 4. Creating notebooks folder: Inside the notebook folder, we should create a data folder for uploading a dataset. This notebook folder will not convert into the package, it's just for to do our EDA purpose.
 
-(i) Data Folder
+  (i) Data Folder
 
 (ii) Data.csv (inside Data folder)
 
