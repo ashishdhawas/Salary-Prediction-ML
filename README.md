@@ -2,11 +2,11 @@
 
 #### 1. Create Virtual Environment: Virtual Environment for separate projects
 
-### 2. Create Requirements.txt file: To install libraries (e.g., numpy, pandas)
+#### 2. Create Requirements.txt file: To install libraries (e.g., numpy, pandas)
 
-### 3. Create setup.py file: Whenever we want to convert the whole project into the packages
+#### 3. Create setup.py file: Whenever we want to convert the whole project into the packages
 
-### 4. Creating notebooks folder: Inside the notebook folder, we should create a data folder for uploading a dataset. This notebook folder will not convert into the package, it's just for to do our EDA purpose.
+#### 4. Creating notebooks folder: Inside the notebook folder, we should create a data folder for uploading a dataset. This notebook folder will not convert into the package, it's just for to do our EDA purpose.
 
 (i) Data Folder
 
@@ -16,7 +16,7 @@
 
 (iv) Model Training.ipynb
 
-### 5. Creating a source folder: My entire machine learning life cycle should be run inside this source folder. Whenever we create a folder, we should always create an init.py file. Because this source folder is also a package, we should be able to reuse it and install it somewhere else.
+#### 5. Creating a source folder: My entire machine learning life cycle should be run inside this source folder. Whenever we create a folder, we should always create an init.py file. Because this source folder is also a package, we should be able to reuse it and install it somewhere else.
 We should create the below files and folders inside the source file.
 
 (i) __init__.py - To convert this folder into a package
@@ -43,19 +43,19 @@ We should create the below files and folders inside the source file.
 
 (xi) predict_pipeline.py file (inside pipeline folder) - predicting for test data or new data
 
-### 6. Artifacts folder - This folder will create by code not manually, this folder is for saving our outputs.
+#### 6. Artifacts folder - This folder will create by code not manually, this folder is for saving our outputs.
 
-### 7. Logs - To saving the log details and this folder will create by code not manually.
+#### 7. Logs - To saving the log details and this folder will create by code not manually.
 
-### 8. app.py - To create a web application for our model
+#### 8. app.py - To create a web application for our model
 
-### 9. templates folder
+#### 9. templates folder
 
 (i) index.html
 
 (ii) form.html
 
-### 10. Dockerfile - To deploy in the cloud.
+#### 10. Dockerfile - To deploy in the cloud.
 
 
 # Salary Prediction
