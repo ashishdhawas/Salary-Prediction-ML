@@ -1,3 +1,3 @@
-##  End to End Machine learning Project
+##  End to End Machine Learning Priject
 
-AWS Deployement
+# Salary Prediction
