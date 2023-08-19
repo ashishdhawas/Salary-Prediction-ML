@@ -1,6 +1,6 @@
 ##  End to End Machine Learning Project
 
-1. Create Virtual Environment: Virtual Environment for separate projects
+## 1. Create Virtual Environment: Virtual Environment for separate projects
 
 2. Create Requirements.txt file: To install libraries (e.g., numpy, pandas)
 
