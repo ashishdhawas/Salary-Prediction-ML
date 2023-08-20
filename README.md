@@ -82,7 +82,7 @@ Screenshot of UI
 2. Data Transformation : 
     * In this phase a ColumnTransformer Pipeline is created.
     * for Numeric Variables first SimpleImputer is applied with strategy median , then Standard Scaling is performed on numeric data.
-    * for Categorical Variables SimpleImputer is applied with most frequent strategy, then ordinal encoding performed , after this data is scaled with Standard Scaler.
+    * for Categorical Variables SimpleImputer is applied with most frequent strategy, then one hot encoding performed , after this data is scaled with Standard Scaler.
     * This preprocessor is saved as pickle file.
 
 3. Model Training : 
@@ -95,7 +95,7 @@ Screenshot of UI
     * This pipeline converts given data into dataframe and has various functions to load pickle files and predict the final results in python.
 
 5. Flask App creation : 
-    * Flask app is created with User Interface to predict the gemstone prices inside a Web Application.
+    * Flask app is created with User Interface to predict the employee salary inside a Web Application.
 
 ##  End to End Machine Learning Project
 
