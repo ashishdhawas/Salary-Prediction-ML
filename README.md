@@ -69,6 +69,10 @@ To replicate or build upon this project:
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request to this repository.
 
+Screenshot of UI
+
+![Screenshot (5)](https://github.com/ashishdhawas/Salary-Prediction-ML/assets/86394831/a1fb1e97-1bf9-4d9d-bd19-1c8da31c395c)
+
 # Approach for the project 
 
 1. Data Ingestion : 
