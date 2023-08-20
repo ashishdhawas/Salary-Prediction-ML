@@ -86,9 +86,9 @@ Screenshot of UI
     * This preprocessor is saved as pickle file.
 
 3. Model Training : 
-    * In this phase base model is tested . The best model found was catboost regressor.
-    * After this hyperparameter tuning is performed on catboost and knn model.
-    * A final VotingRegressor is created which will combine prediction of catboost, xgboost and knn models.
+    * In this phase base model is tested . The best model found was random forest regressor.
+    * After this hyperparameter tuning is performed on random forest regressor model.
+    * A final VotingRegressor is created which will combine prediction of random forest models.
     * This model is saved as pickle file.
 
 4. Prediction Pipeline : 
